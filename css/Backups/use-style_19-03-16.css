@@ -1,0 +1,130 @@
+﻿@charset "utf-8";
+/* CSS Document */
+*{
+	padding:0;
+	margin:0;	
+}
+.main{
+	width:100%;
+	height:auto;
+	float:left;
+	//background:#CCC;	
+}
+.head{
+	width:100%;
+	height:auto;
+	float:left;
+	background:#24323c;	
+	box-shadow:0px 4px 5px 0px rgba(0, 0, 0, 0.29);
+	//position:fixed;
+}
+.edu-logo{
+	width:160px;
+	height:80px;
+	float:left;
+	padding:0;
+	//background:#CCC;
+}
+.schools-name{
+	width:auto;
+	height:auto;
+	float:left;
+	font-size:30px;
+	//border:3px solid #fff;
+	margin-left:160px;
+	padding: 3px 56px;
+	color:#fff;
+	margin-top:17px;
+}
+.right-boxs{
+	width:64%;
+	height:auto;
+}
+.right-boxs-info{
+	width:100%;
+	height:auto;
+	float:left;
+	background:rgba(255,255,255,0.7);
+	margin:20px 0;
+
+}
+.boxs-bondaed{
+   border: 1px solid #8e8f90;
+    float: left;
+    height: 150px;
+    margin: 21px;
+    padding: 3px;
+    width: 150px;
+}
+.boxs-bondaed:hover{
+   box-shadow:4px 3px 4px -2px #999999;
+   cursor:pointer;
+   transform:scale(15px,);
+
+}
+.flip {
+    padding: 12px 0;
+    text-align: center;
+    background-color: #00a2ff;
+    border: solid 1px #c3c3c3;
+}
+.flip:hover{
+	cursor:pointer;	
+	color:#fff;
+}
+.panel {
+    padding: 23px;
+    display: none;
+	background-color: #fff;
+    border:1px solid #999 !important;
+}
+.bh {
+    padding: 12px 0;
+    text-align: center;
+    background-color: #00a2ff;
+    border: solid 1px #c3c3c3;
+}
+.bh:hover{
+	cursor:pointer;
+	color:#fff;	
+}
+.hb {
+    padding: 23px;
+    display: none;
+	background-color: #fff;
+    border: solid 1px #999;
+}
+.lb {
+    padding: 12px 0;
+    text-align: center;
+    background-color: #00a2ff;
+    border: solid 1px #c3c3c3;
+}
+.lb:hover{
+	cursor:pointer;
+	color:#fff;	
+}
+.bl{
+    padding: 23px;
+    display: none;
+	background-color: #fff;
+    border: solid 1px #999;
+}
+
+.font-text-la{
+	font-size:22px;
+	font-weight:bold;	
+}
+.home-boxas{
+	float: left;
+    margin: 10px 0;
+    width: 100%;
+}
+.font-with{
+	width:70%;	
+}
+.pro-mag{
+	border: 1px solid #ccc; 
+	height: 127px;
+	padding:4px;
+}

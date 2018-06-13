@@ -1,0 +1,1593 @@
+/******************
+	CSS INDEX
+*******************/
+/*
+1) Page Sidebar Menu Main Icon CSS
+2) Page Sidebar Menu Sub Icon CSS
+3) Dashboard Icon CSS
+*/
+/****************************************
+	1) Page Sidebar Menu Main Icon CSS
+*****************************************/
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_acadamic_history:before {
+  background: url("../../../../img/menu_icons/icn_main_acadamic_history.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_admission_section:before {
+  background: url("../../../../img/menu_icons/icn_main_admission_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_attendance:before {
+  background: url("../../../../img/menu_icons/icn_main_attendance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_circular:before {
+  background: url("../../../../img/menu_icons/icn_main_circular.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_communication:before {
+  background: url("../../../../img/menu_icons/icn_main_communication.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_contact_list:before {
+  background: url("../../../../img/menu_icons/icn_main_contact_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_contactus:before {
+  background: url("../../../../img/menu_icons/icn_main_contactus.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_dailydiary:before {
+  background: url("../../../../img/menu_icons/icn_main_dailydiary.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_download:before {
+  background: url("../../../../img/menu_icons/icn_main_download.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_ebook:before {
+  background: url("../../../../img/menu_icons/icn_main_ebook.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_events:before {
+  background: url("../../../../img/menu_icons/icn_main_events.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_exam_result:before {
+  background: url("../../../../img/menu_icons/icn_main_exam_result.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_gallery:before {
+  background: url("../../../../img/menu_icons/icn_main_gallery.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_general_setting:before {
+  background: url("../../../../img/menu_icons/icn_main_general_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_guest_setting:before {
+  background: url("../../../../img/menu_icons/icn_main_guest_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_idcard:before {
+  background: url("../../../../img/menu_icons/icn_main_idcard.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_leave_application:before {
+  background: url("../../../../img/menu_icons/icn_main_leave_application.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_mailer:before {
+  background: url("../../../../img/menu_icons/icn_main_mailer.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_myprofile:before {
+  background: url("../../../../img/menu_icons/icn_main_myprofile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_news_update:before {
+  background: url("../../../../img/menu_icons/icn_main_news_update.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_remarks:before {
+  background: url("../../../../img/menu_icons/icn_main_remarks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_share_app:before {
+  background: url("../../../../img/menu_icons/icn_main_share_app.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_sms:before {
+  background: url("../../../../img/menu_icons/icn_main_sms.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_super_admin:before {
+  background: url("../../../../img/menu_icons/icn_main_super_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_tiktalk:before {
+  background: url("../../../../img/menu_icons/icn_main_tiktalk.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_time_table:before {
+  background: url("../../../../img/menu_icons/icn_main_time_table.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_user_suggestion:before {
+  background: url("../../../../img/menu_icons/icn_main_user_suggestion.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_utility_help:before {
+  background: url("../../../../img/menu_icons/icn_main_utility_help.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_accounts:before {
+  background: url("../../../../img/menu_icons/icn_main_accounts.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_admin:before {
+  background: url("../../../../img/menu_icons/icn_main_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_canteen:before {
+  background: url("../../../../img/menu_icons/icn_main_canteen.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_office:before {
+  background: url("../../../../img/menu_icons/icn_main_front_office.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_hostel:before {
+  background: url("../../../../img/menu_icons/icn_main_hostel.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_hr:before {
+  background: url("../../../../img/menu_icons/icn_main_hr.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_library:before {
+  background: url("../../../../img/menu_icons/icn_main_library.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_security:before {
+  background: url("../../../../img/menu_icons/icn_main_security.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_store_purchase:before {
+  background: url("../../../../img/menu_icons/icn_main_store_purchase.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_student:before {
+  background: url("../../../../img/menu_icons/icn_main_student.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_supervisor:before {
+  background: url("../../../../img/menu_icons/icn_main_supervisor.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_teacher:before {
+  background: url("../../../../img/menu_icons/icn_main_teacher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_transport:before {
+  background: url("../../../../img/menu_icons/icn_main_transport.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_home_work:before {
+  background: url("../../../../img/menu_icons/icn_home_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_class_work:before {
+  background: url("../../../../img/menu_icons/icn_class_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_view_all:before {
+  background: url("../../../../img/menu_icons/icn_view_all.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_add:before {
+  background: url("../../../../img/menu_icons/icn_add.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_driver_profile:before {
+  background: url("../../../../img/menu_icons/icn_driver_profile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_route_schedule:before {
+  background: url("../../../../img/menu_icons/icn_route_schedule.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_notice_board:before {
+  background: url("../../../../img/menu_icons/icn_notice_board.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_app-admission:before {
+  background: url("../../../../img/menu_icons/icn_app-admission") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_section:before {
+  background: url("../../../../img/menu_icons/icn_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_exam_type:before {
+  background: url("../../../../img/menu_icons/icn_exam_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_holiday:before {
+  background: url("../../../../img/menu_icons/icn_holiday.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_imports:before {
+  background: url("../../../../img/menu_icons/icn_imports.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_subject:before {
+  background: url("../../../../img/menu_icons/icn_subject.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_fee:before {
+  background: url("../../../../img/menu_icons/icn_fee.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_fee_type:before {
+  background: url("../../../../img/menu_icons/icn_fee_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_blood_group:before {
+  background: url("../../../../img/menu_icons/icn_blood_group.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_cast_categories:before {
+  background: url("../../../../img/menu_icons/icn_cast_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_categories:before {
+  background: url("../../../../img/menu_icons/icn_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_city:before {
+  background: url("../../../../img/menu_icons/icn_city.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_medium:before {
+  background: url("../../../../img/menu_icons/icn_medium.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_content:before {
+  background: url("../../../../img/menu_icons/icn_pages_content.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_name:before {
+  background: url("../../../../img/menu_icons/icn_pages_name.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_schools:before {
+  background: url("../../../../img/menu_icons/icn_schools.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_Manage_certification:before {
+  background: url("../../../../img/menu_icons/icn_Manage_certification.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_brocher:before {
+  background: url("../../../../img/menu_icons/icn_brocher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+  background: url("../../../../img/menu_icons/icn_achievements.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vacancy:before {
+  background: url("../../../../img/menu_icons/icn_vacancy.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+  background: url("../../../../img/menu_icons/icn_achievements.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_vehicle_shift:before {
+  background: url("../../../../img/menu_icons/icn_main_vehicle_shift.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_list_of_student:before {
+  background: url("../../../../img/menu_icons/icn_main_list_of_student.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_list_of_student:before {
+  background: url("../../../../img/menu_icons/icn_sub_list_of_student.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_vehicle_attendance:before {
+  background: url("../../../../img/menu_icons/icn_main_vehicle_attendance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_attendance:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_attendance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_vehicle_registration:before {
+  background: url("../../../../img/menu_icons/icn_main_vehicle_registration.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_registration:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_registration.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_vehicle_departure:before {
+  background: url("../../../../img/menu_icons/icn_main_vehicle_departure.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_departure:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_departure.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_pick_up_location:before {
+  background: url("../../../../img/menu_icons/icn_main_pick_up_location.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pick_up_location:before {
+  background: url("../../../../img/menu_icons/icn_sub_pick_up_location.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_vehicle_list:before {
+  background: url("../../../../img/menu_icons/icn_main_vehicle_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_list:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_about_us:before {
+  background: url("../../../../img/menu_icons/icn_main_front_about_us.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_about_us:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_about_us.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_activities:before {
+  background: url("../../../../img/menu_icons/icn_main_front_activities.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_activities:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_activities.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_admission_forms:before {
+  background: url("../../../../img/menu_icons/icn_main_front_admission_forms.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_admission_forms:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_admission_forms.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_contact_us:before {
+  background: url("../../../../img/menu_icons/icn_main_front_contact_us.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_contact_us:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_contact_us.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_course:before {
+  background: url("../../../../img/menu_icons/icn_main_front_course.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_course:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_course.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_facility:before {
+  background: url("../../../../img/menu_icons/icn_main_front_facility.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_facility:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_facility.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_gallery:before {
+  background: url("../../../../img/menu_icons/icn_main_front_gallery.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_gallery:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_gallery.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_philosophy:before {
+  background: url("../../../../img/menu_icons/icn_main_front_philosophy.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_philosophy:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_philosophy.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_slider:before {
+  background: url("../../../../img/menu_icons/icn_main_front_slider.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_slider:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_slider.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_site_setting:before {
+  background: url("../../../../img/menu_icons/icn_main_front_site_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_site_setting:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_site_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_fees:before {
+  background: url("../../../../img/menu_icons/icn_main_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fees:before {
+  background: url("../../../../img/menu_icons/icn_sub_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_received_fees:before {
+  background: url("../../../../img/menu_icons/icn_main_received_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_received_fees:before {
+  background: url("../../../../img/menu_icons/icn_sub_received_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_fees_due:before {
+  background: url("../../../../img/menu_icons/icn_main_fees_due.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fees_due:before {
+  background: url("../../../../img/menu_icons/icn_sub_fees_due.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_refund_fees:before {
+  background: url("../../../../img/menu_icons/icn_main_refund_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_refund_fees:before {
+  background: url("../../../../img/menu_icons/icn_sub_refund_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_fees_collection_challan:before {
+  background: url("../../../../img/menu_icons/icn_main_fees_collection_challan.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fees_collection_challan:before {
+  background: url("../../../../img/menu_icons/icn_sub_fees_collection_challan.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_fees_collection_demanddraft:before {
+  background: url("../../../../img/menu_icons/icn_main_fees_collection_demanddraft.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fees_collection_demanddraft:before {
+  background: url("../../../../img/menu_icons/icn_sub_fees_collection_demanddraft.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_advance_fees:before {
+  background: url("../../../../img/menu_icons/icn_main_advance_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_advance_fees:before {
+  background: url("../../../../img/menu_icons/icn_sub_advance_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_fees_collection_cheque:before {
+  background: url("../../../../img/menu_icons/icn_main_fees_collection_cheque.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fees_collection_cheque:before {
+  background: url("../../../../img/menu_icons/icn_sub_fees_collection_cheque.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_fees_collection:before {
+  background: url("../../../../img/menu_icons/icn_main_fees_collection.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fees_collection:before {
+  background: url("../../../../img/menu_icons/icn_sub_fees_collection.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_admission_fees:before {
+  background: url("../../../../img/menu_icons/icn_main_admission_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_admission_fees:before {
+  background: url("../../../../img/menu_icons/icn_sub_admission_fees.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_month_distribution:before {
+  background: url("../../../../img/menu_icons/icn_main_month_distribution.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_month_distribution:before {
+  background: url("../../../../img/menu_icons/icn_sub_month_distribution.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_item_purchase:before {
+  background: url("../../../../img/menu_icons/icn_main_item_purchase.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_item_purchase:before {
+  background: url("../../../../img/menu_icons/icn_sub_item_purchase.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_item_receive_request:before {
+  background: url("../../../../img/menu_icons/icn_main_item_receive_request.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_item_receive_request:before {
+  background: url("../../../../img/menu_icons/icn_sub_item_receive_request.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_stock:before {
+  background: url("../../../../img/menu_icons/icn_main_stock.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_stock:before {
+  background: url("../../../../img/menu_icons/icn_sub_stock.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_stock_report:before {
+  background: url("../../../../img/menu_icons/icn_main_stock_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_stock_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_stock_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_user_list:before {
+  background: url("../../../../img/menu_icons/icn_main_user_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_user_list:before {
+  background: url("../../../../img/menu_icons/icn_sub_user_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_academic_classes:before {
+  background: url("../../../../img/menu_icons/icn_main_academic_classes.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_academic_classes:before {
+  background: url("../../../../img/menu_icons/icn_sub_academic_classes.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_academic_sections:before {
+  background: url("../../../../img/menu_icons/icn_main_academic_sections.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_academic_sections:before {
+  background: url("../../../../img/menu_icons/icn_sub_academic_sections.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_exams:before {
+  background: url("../../../../img/menu_icons/icn_main_exams.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_exams:before {
+  background: url("../../../../img/menu_icons/icn_sub_exams.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_personal_profile:before {
+  background: url("../../../../img/menu_icons/icn_main_personal_profile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_personal_profile:before {
+  background: url("../../../../img/menu_icons/icn_sub_personal_profile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_departments:before {
+  background: url("../../../../img/menu_icons/icn_main_departments.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_departments:before {
+  background: url("../../../../img/menu_icons/icn_sub_departments.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_activity:before {
+  background: url("../../../../img/menu_icons/icn_main_activity.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_activity:before {
+  background: url("../../../../img/menu_icons/icn_sub_activity.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_media:before {
+  background: url("../../../../img/menu_icons/icn_main_media.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_media:before {
+  background: url("../../../../img/menu_icons/icn_sub_media.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_general_settings:before {
+  background: url("../../../../img/menu_icons/icn_main_general_settings.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_general_settings:before {
+  background: url("../../../../img/menu_icons/icn_sub_general_settings.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_sms:before {
+  background: url("../../../../img/menu_icons/icn_main_sms.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_sms:before {
+  background: url("../../../../img/menu_icons/icn_sub_sms.png") no-repeat center center;
+}
+/****************************************
+	2) Page Sidebar Menu Sub Icon CSS
+*****************************************/
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_acadamic_history:before {
+  background: url("../../../../img/menu_icons/icn_sub_acadamic_history.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_admission_section:before {
+  background: url("../../../../img/menu_icons/icn_sub_admission_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_attendance:before {
+  background: url("../../../../img/menu_icons/icn_sub_attendance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_circular:before {
+  background: url("../../../../img/menu_icons/icn_sub_circular.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_contact_list:before {
+  background: url("../../../../img/menu_icons/icn_sub_contact_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_contactus:before {
+  background: url("../../../../img/menu_icons/icn_sub_contactus.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_dailydiary:before {
+  background: url("../../../../img/menu_icons/icn_sub_dailydiary.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_download:before {
+  background: url("../../../../img/menu_icons/icn_sub_download.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_ebook:before {
+  background: url("../../../../img/menu_icons/icn_sub_ebook.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_events:before {
+  background: url("../../../../img/menu_icons/icn_sub_events.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_exam_result:before {
+  background: url("../../../../img/menu_icons/icn_sub_exam_result.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_gallery:before {
+  background: url("../../../../img/menu_icons/icn_sub_gallery.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_general_setting:before {
+  background: url("../../../../img/menu_icons/icn_sub_general_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_guest_setting:before {
+  background: url("../../../../img/menu_icons/icn_sub_guest_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_idcard:before {
+  background: url("../../../../img/menu_icons/icn_sub_idcard.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_leave_application:before {
+  background: url("../../../../img/menu_icons/icn_sub_leave_application.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_mailer:before {
+  background: url("../../../../img/menu_icons/icn_sub_mailer.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_myprofile:before {
+  background: url("../../../../img/menu_icons/icn_sub_myprofile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_news_update:before {
+  background: url("../../../../img/menu_icons/icn_sub_news_update.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_remarks:before {
+  background: url("../../../../img/menu_icons/icn_sub_remarks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_share_app:before {
+  background: url("../../../../img/menu_icons/icn_sub_share_app.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_sms:before {
+  background: url("../../../../img/menu_icons/icn_sub_sms.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_super_admin:before {
+  background: url("../../../../img/menu_icons/icn_sub_super_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_tiktalk:before {
+  background: url("../../../../img/menu_icons/icn_sub_tiktalk.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_time_table:before {
+  background: url("../../../../img/menu_icons/icn_sub_time_table.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_user_suggestion:before {
+  background: url("../../../../img/menu_icons/icn_sub_user_suggestion.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_utility_help:before {
+  background: url("../../../../img/menu_icons/icn_sub_utility_help.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_accounts:before {
+  background: url("../../../../img/menu_icons/icn_sub_accounts.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_admin:before {
+  background: url("../../../../img/menu_icons/icn_sub_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_canteen:before {
+  background: url("../../../../img/menu_icons/icn_sub_canteen.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_office:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_office.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_hostel:before {
+  background: url("../../../../img/menu_icons/icn_sub_hostel.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_hr:before {
+  background: url("../../../../img/menu_icons/icn_sub_hr.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_library:before {
+  background: url("../../../../img/menu_icons/icn_sub_library.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_security:before {
+  background: url("../../../../img/menu_icons/icn_sub_security.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_store_purchase:before {
+  background: url("../../../../img/menu_icons/icn_sub_store_purchase.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_student:before {
+  background: url("../../../../img/menu_icons/icn_sub_student.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_supervisor:before {
+  background: url("../../../../img/menu_icons/icn_sub_supervisor.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_teacher:before {
+  background: url("../../../../img/menu_icons/icn_sub_teacher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_transport:before {
+  background: url("../../../../img/menu_icons/icn_sub_transport.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_home:before {
+  background: url("../../../../img/menu_icons/icn_sub_home.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_add:before {
+  background: url("../../../../img/menu_icons/icn_sub_add.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_view:before {
+  background: url("../../../../img/menu_icons/icn_sub_view.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_home_work:before {
+  background: url("../../../../img/menu_icons/icn_sub_home_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_class_work:before {
+  background: url("../../../../img/menu_icons/icn_sub_class_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_view_all:before {
+  background: url("../../../../img/menu_icons/icn_sub_view_all.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_add:before {
+  background: url("../../../../img/menu_icons/icn_sub_add.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_driver_profile:before {
+  background: url("../../../../img/menu_icons/icn_sub_driver_profile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_route_schedule:before {
+  background: url("../../../../img/menu_icons/icn_sub_route_schedule.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_notice_board:before {
+  background: url("../../../../img/menu_icons/icn_sub_notice_board.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_app_admission:before {
+  background: url("../../../../img/menu_icons/icn_sub_app_admission.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_section:before {
+  background: url("../../../../img/menu_icons/icn_sub_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_exam_type:before {
+  background: url("../../../../img/menu_icons/icn_sub_exam_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_holiday:before {
+  background: url("../../../../img/menu_icons/icn_sub_holiday.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_imports:before {
+  background: url("../../../../img/menu_icons/icn_sub_imports.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_subject:before {
+  background: url("../../../../img/menu_icons/icn_sub_subject.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fee:before {
+  background: url("../../../../img/menu_icons/icn_sub_fee.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fee_type:before {
+  background: url("../../../../img/menu_icons/icn_sub_fee_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_blood_group:before {
+  background: url("../../../../img/menu_icons/icn_sub_blood_group.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_cast_categories:before {
+  background: url("../../../../img/menu_icons/icn_sub_cast_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_categories:before {
+  background: url("../../../../img/menu_icons/icn_sub_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_city:before {
+  background: url("../../../../img/menu_icons/icn_sub_city.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_medium:before {
+  background: url("../../../../img/menu_icons/icn_sub_medium.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_content:before {
+  background: url("../../../../img/menu_icons/icn_sub_pages_content.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_name:before {
+  background: url("../../../../img/menu_icons/icn_sub_pages_name.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_schools:before {
+  background: url("../../../../img/menu_icons/icn_sub_schools.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_Manage_certification:before {
+  background: url("../../../../img/menu_icons/icn_sub_Manage_certification.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_brocher:before {
+  background: url("../../../../img/menu_icons/icn_sub_brocher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+  background: url("../../../../img/menu_icons/icn_sub_achievements.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vacancy:before {
+  background: url("../../../../img/menu_icons/icn_sub_vacancy.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+  background: url("../../../../img/menu_icons/icn_sub_achievements.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_shift:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_shift.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_type:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_route_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_route_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_stoppage_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_stoppage_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_expese:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_expese.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_route_detels:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_route_detels.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_driver:before {
+  background: url("../../../../img/menu_icons/icn_sub_driver.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vehicle_departure_arrival:before {
+  background: url("../../../../img/menu_icons/icn_sub_vehicle_departure_arrival.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_library_verification:before {
+  background: url("../../../../img/menu_icons/icn_sub_library_verification.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_library_visitor_records:before {
+  background: url("../../../../img/menu_icons/icn_sub_library_visitor_records.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fine_collection:before {
+  background: url("../../../../img/menu_icons/icn_sub_fine_collection.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_library_item_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_library_item_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_bulk_editing:before {
+  background: url("../../../../img/menu_icons/icn_sub_bulk_editing.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_receive_serial:before {
+  background: url("../../../../img/menu_icons/icn_sub_receive_serial.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_subscription:before {
+  background: url("../../../../img/menu_icons/icn_sub_subscription.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_serial_news_paper:before {
+  background: url("../../../../img/menu_icons/icn_sub_serial_news_paper.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_news_update:before {
+  background: url("../../../../img/menu_icons/icn_sub_news_update.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_bookbank_transaction:before {
+  background: url("../../../../img/menu_icons/icn_sub_bookbank_transaction.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_library_transaction:before {
+  background: url("../../../../img/menu_icons/icn_sub_library_transaction.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_publisher_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_publisher_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_group_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_group_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_groups_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_groups_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_departments_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_departments_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_names_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_names_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_payment_types_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_payment_types_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_balance_sheet_heads_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_balance_sheet_heads_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_balance_sheet_sub_heads_master:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_balance_sheet_sub_heads_master.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_balance_sheet_details:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_balance_sheet_details.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_balance_sheet_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_balance_sheet_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_ledger_creation:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_ledger_creation.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_ledger_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_ledger_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_cash_book_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_cash_book_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_bank_book_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_bank_book_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_trial_balance:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_trial_balance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_trial_balance_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_trial_balance_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_bank_reconciliation_statement:before {
+  background: url("../../../../img/menu_icons/icn_sub_bank_reconciliation_statement.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_bank_reconciliation_statement_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_bank_reconciliation_statement_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_bank_reconciliation_statement_report:before {
+  background: url("../../../../img/menu_icons/icn_sub_bank_reconciliation_statement_report.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_account_budget:before {
+  background: url("../../../../img/menu_icons/icn_sub_account_budget.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_promotion:before {
+  background: url("../../../../img/menu_icons/icn_sub_promotion.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_demotion:before {
+  background: url("../../../../img/menu_icons/icn_sub_demotion.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_termination:before {
+  background: url("../../../../img/menu_icons/icn_sub_termination.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_employee_performance:before {
+  background: url("../../../../img/menu_icons/icn_sub_employee_performance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_admission_inquiry:before {
+  background: url("../../../../img/menu_icons/icn_sub_admission_inquiry.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_document_checklist:before {
+  background: url("../../../../img/menu_icons/icn_sub_document_checklist.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_salary_generation:before {
+  background: url("../../../../img/menu_icons/icn_sub_salary_generation.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_facility:before {
+  background: url("../../../../img/menu_icons/icn_sub_facility.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_library_member:before {
+  background: url("../../../../img/menu_icons/icn_sub_library_member.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_roles:before {
+  background: url("../../../../img/menu_icons/icn_sub_roles.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_document:before {
+  background: url("../../../../img/menu_icons/icn_sub_document.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_group:before {
+  background: url("../../../../img/menu_icons/icn_sub_group.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_about:before {
+  background: url("../../../../img/menu_icons/icn_sub_about.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub_website_section:before {
+  background: url("../../../../img/menu_icons/icn_sub_website_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn_main_country:before {
+  background: url("../../../../img/menu_icons/icn_main_country.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_country:before {
+  background: url("../../../../img/menu_icons/icn_sub_country.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn_main_state:before {
+  background: url("../../../../img/menu_icons/icn_main_state.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_state:before {
+  background: url("../../../../img/menu_icons/icn_sub_state.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn_main_print_documents:before {
+  background: url("../../../../img/menu_icons/icn_main_print_documents.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_print_documents:before {
+  background: url("../../../../img/menu_icons/icn_sub_print_documents.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn_main_front_services:before {
+  background: url("../../../../img/menu_icons/icn_main_front_services.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_services:before {
+  background: url("../../../../img/menu_icons/icn_sub_front_services.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn_main_staff_upload_document:before {
+  background: url("../../../../img/menu_icons/icn_main_staff_upload_document.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_staff_upload_document:before {
+  background: url("../../../../img/menu_icons/icn_sub_staff_upload_document.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn_main_student_document:before {
+  background: url("../../../../img/menu_icons/icn_main_student_document.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_student_document:before {
+  background: url("../../../../img/menu_icons/icn_sub_student_document.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_main_database_backup.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_sub_database_backup.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_main_exam_syllabus.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_sub_exam_syllabus.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_main_exam_grade.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_sub_exam_grade.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_main_exam_oral_marks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_sub_exam_oral_marks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_main_exam_remark.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_sub_exam_remark.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_main_exam_written_marks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_sub_exam_written_marks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_main_circular_group.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_database_backup:before {
+  background: url("../../../../img/menu_icons/icn_sub_circular_group.png") no-repeat center center;
+}
+
+/*************************************
+	3) Dashboard Icon CSS
+**************************************/
+.ACADEMIC_HISTORY {
+  background: url("../../../../img/dashboard/academic_history.png") no-repeat center center;
+}
+.SHARE_APP {
+  background: url("../../../../img/dashboard/share_app.png") no-repeat center center;
+}
+.REFER_FRIEND {
+  background: url("../../../../img/dashboard/refer_friend.png") no-repeat center center;
+}
+.CANTEEN {
+  background: url("../../../../img/dashboard/canteen.png") no-repeat center center;
+}
+.CONTACT_US {
+  background: url("../../../../img/dashboard/contact_us.png") no-repeat center center;
+}
+.contact_list {
+  background: url("../../../../img/dashboard/contact_list.png") no-repeat center center;
+}
+.DAILY_DIARY {
+  background: url("../../../../img/dashboard/daily_diary.png") no-repeat center center;
+}
+.DOWNLOAD {
+  background: url("../../../../img/dashboard/download.png") no-repeat center center;
+}
+.FRONT_OFFICE {
+  background: url("../../../../img/dashboard/front_office.png") no-repeat center center;
+}
+.GALLERY {
+  background: url("../../../../img/dashboard/gallery.png") no-repeat center center;
+}
+.HOSTEL {
+  background: url("../../../../img/dashboard/hostel.png") no-repeat center center;
+}
+.IDCARD {
+  background: url("../../../../img/dashboard/id_card.png") no-repeat center center;
+}
+.MAILER {
+  background: url("../../../../img/dashboard/mailer.png") no-repeat center center;
+}
+.NEWS_UPDATE {
+  background: url("../../../../img/dashboard/news_update.png") no-repeat center center;
+}
+.REMARKS {
+  background: url("../../../../img/dashboard/remarks.png") no-repeat center center;
+}
+.security {
+  background: url("../../../../img/dashboard/security.png") no-repeat center center;
+}
+.SMS {
+  background: url("../../../../img/dashboard/sms.png") no-repeat center center;
+}
+.STORE_PURCHASE {
+  background: url("../../../../img/dashboard/store_purchase.png") no-repeat center center;
+}
+.TIK_TALK {
+  background: url("../../../../img/dashboard/tik_talk.png") no-repeat center center;
+}
+.UTILITY_HELP {
+  background: url("../../../../img/dashboard/utility_help.png") no-repeat center center;
+}
+.account_section {
+  background: url("../../../../img/dashboard/account_section.png") no-repeat center center;
+}
+.achievements {
+  background: url("../../../../img/dashboard/achievements.png") no-repeat center center;
+}
+.admission_forms {
+  background: url("../../../../img/dashboard/admission_forms.png") no-repeat center center;
+}
+.admission_forms {
+  background: url("../../../../img/dashboard/admission_forms.png") no-repeat center center;
+}
+.student {
+  background: url("../../../../img/dashboard/student.png") no-repeat center center;
+}
+.admission_section {
+  background: url("../../../../img/dashboard/admission_section.png") no-repeat center center;
+}
+.album {
+  background: url("../../../../img/dashboard/album.png") no-repeat center center;
+}
+.assign_time_table {
+  background: url("../../../../img/dashboard/time_table.png") no-repeat center center;
+}
+.attendance {
+  background: url("../../../../img/dashboard/attendance.png") no-repeat center center;
+}
+.blood_group {
+  background: url("../../../../img/dashboard/blood_group.png") no-repeat center center;
+}
+.book_master {
+  background: url("../../../../img/dashboard/book_master.png") no-repeat center center;
+}
+.cast_category {
+  background: url("../../../../img/dashboard/cast_category.png") no-repeat center center;
+}
+.category {
+  background: url("../../../../img/dashboard/category.png") no-repeat center center;
+}
+.certification {
+  background: url("../../../../img/dashboard/certification.png") no-repeat center center;
+}
+.city {
+  background: url("../../../../img/dashboard/city.png") no-repeat center center;
+}
+.driver {
+  background: url("../../../../img/dashboard/driver.png") no-repeat center center;
+}
+.ebook {
+  background: url("../../../../img/dashboard/ebook.png") no-repeat center center;
+}
+.exam_result {
+  background: url("../../../../img/dashboard/exam_result.png") no-repeat center center;
+}
+.exam_schedule {
+  background: url("../../../../img/dashboard/exam_schedule.png") no-repeat center center;
+}
+.exam_type {
+  background: url("../../../../img/dashboard/exam_type.png") no-repeat center center;
+}
+.fee {
+  background: url("../../../../img/dashboard/fee.png") no-repeat center center;
+}
+.holiday {
+  background: url("../../../../img/dashboard/holiday.png") no-repeat center center;
+}
+.hr_section {
+  background: url("../../../../img/dashboard/hr_section.png") no-repeat center center;
+}
+.imports {
+  background: url("../../../../img/dashboard/imports.png") no-repeat center center;
+}
+.leave_application {
+  background: url("../../../../img/dashboard/leave_application.png") no-repeat center center;
+}
+.library {
+  background: url("../../../../img/dashboard/library.png") no-repeat center center;
+}
+.events {
+  background: url("../../../../img/dashboard/events.png") no-repeat center center;
+}
+.medium_section {
+  background: url("../../../../img/dashboard/medium_section.png") no-repeat center center;
+}
+.my_profile {
+  background: url("../../../../img/dashboard/my_profile.png") no-repeat center center;
+}
+.notice_board {
+  background: url("../../../../img/dashboard/circular.png") no-repeat center center;
+}
+.page_content {
+  background: url("../../../../img/dashboard/page_content.png") no-repeat center center;
+}
+.page_name {
+  background: url("../../../../img/dashboard/page_name.png") no-repeat center center;
+}
+.payment_term {
+  background: url("../../../../img/dashboard/payment_term.png") no-repeat center center;
+}
+.roles {
+  background: url("../../../../img/dashboard/roles.png") no-repeat center center;
+}
+.school {
+  background: url("../../../../img/dashboard/school.png") no-repeat center center;
+}
+.school_gallery {
+  background: url("../../../../img/dashboard/school_gallery.png") no-repeat center center;
+}
+.student_ledger {
+  background: url("../../../../img/dashboard/student_ledger.png") no-repeat center center;
+}
+.student_section {
+  background: url("../../../../img/dashboard/student_section.png") no-repeat center center;
+}
+.subject {
+  background: url("../../../../img/dashboard/subject.png") no-repeat center center;
+}
+.supervisor_section {
+  background: url("../../../../img/dashboard/supervisor_section.png") no-repeat center center;
+}
+.teacher_section {
+  background: url("../../../../img/dashboard/teacher_section.png") no-repeat center center;
+}
+.admin_section {
+  background: url("../../../../img/dashboard/admin_section.png") no-repeat center center;
+}
+.super_admin_section {
+  background: url("../../../../img/dashboard/super_admin_section.png") no-repeat center center;
+}
+.testimonial {
+  background: url("../../../../img/dashboard/testimonial.png") no-repeat center center;
+}
+.transports {
+  background: url("../../../../img/dashboard/transports.png") no-repeat center center;
+}
+.user_suggestion {
+  background: url("../../../../img/dashboard/user_suggestion.png") no-repeat center center;
+}
+.vacancy {
+  background: url("../../../../img/dashboard/vacancy.png") no-repeat center center;
+}
+.school_profile {
+  background: url("../../../../img/dashboard/school_profile.png") no-repeat center center;
+}
+.fee_type {
+  background: url("../../../../img/dashboard/fee_type.png") no-repeat center center;
+}
+.class_work {
+  background: url("../../../../img/dashboard/class_work.png") no-repeat center center;
+}
+.home_work {
+  background: url("../../../../img/dashboard/home_work.png") no-repeat center center;
+}
+.exam_list {
+  background: url("../../../../img/dashboard/exam_list.png") no-repeat center center;
+}
+.my_document {
+  background: url("../../../../img/dashboard/my_document.png") no-repeat center center;
+}
+.circular {
+  background: url("../../../../img/dashboard/circular.png") no-repeat center center;
+}
+.communication {
+  background: url("../../../../img/dashboard/communication.png") no-repeat center center;
+}
+.classmates {
+  background: url("../../../../img/dashboard/classmates.png") no-repeat center center;
+}
+.guest_page {
+  background: url("../../../../img/dashboard/guest_setting.png") no-repeat center center;
+}
+.general_setting {
+  background: url("../../../../img/dashboard/general_setting.png") no-repeat center center;
+}
+.back_dashboard {
+  background: url("../../../../img/dashboard/back.png") no-repeat center center;
+}
+.broucher {
+  background: url("../../../../img/dashboard/broucher.png") no-repeat center center;
+}
+.admission_inquiry {
+  background: url("../../../../img/dashboard/admission_inquiry.png") no-repeat center center;
+}
+.vehicle_profile {
+  background: url("../../../../img/dashboard/vehicle_profile.png") no-repeat center center;
+}
+.driver_profile {
+  background: url("../../../../img/dashboard/driver_profile.png") no-repeat center center;
+}
+.student_registration {
+  background: url("../../../../img/dashboard/student-registration.png") no-repeat center center;
+}
+.AdmissionConfirm {
+  background: url("../../../../img/dashboard/admission-confirmation.png") no-repeat center center;
+}
+.subject_group {
+  background: url("../../../../img/dashboard/subject_group.png") no-repeat center center;
+}
+.interview_round {
+  background: url("../../../../img/dashboard/interview_round.png") no-repeat center center;
+}
+.admission_vacancy {
+  background: url("../../../../img/dashboard/admission_vacancy.png") no-repeat center center;
+}
+.ROUTE_SCHEDULE {
+  background: url("../../../../img/dashboard/route_schedule.png") no-repeat center center;
+}
+.account_section_new {
+  background: url("../../../../img/dashboard/account_section_new.png") no-repeat center center;
+}
+.vehical_shift {
+  background: url("../../../../img/dashboard/vehical_shift.png") no-repeat center center;
+}
+.vehical_type {
+  background: url("../../../../img/dashboard/vehical_type.png") no-repeat center center;
+}
+.viehicle_master {
+  background: url("../../../../img/dashboard/viehicle_master.png") no-repeat center center;
+}
+.viehicle_route_master {
+  background: url("../../../../img/dashboard/viehicle_route_master.png") no-repeat center center;
+}
+.vehicle_stoppage_master {
+  background: url("../../../../img/dashboard/vehicle_stoppage_master.png") no-repeat center center;
+}
+.vehical_departure_master {
+  background: url("../../../../img/dashboard/vehical_departure_master.png") no-repeat center center;
+}
+.vehicle_expese {
+  background: url("../../../../img/dashboard/vehicle_expese.png") no-repeat center center;
+}
+.route_schedule {
+  background: url("../../../../img/dashboard/route_schedule.png") no-repeat center center;
+}
+.driver {
+  background: url("../../../../img/dashboard/driver.png") no-repeat center center;
+}
+.vehicle_route_detels {
+  background: url("../../../../img/dashboard/vehicle_route_detels.png") no-repeat center center;
+}
+.library_member_master {
+  background: url("../../../../img/dashboard/library_member_master.png") no-repeat center center;
+}
+.library_iItem_master {
+  background: url("../../../../img/dashboard/library_item_master.png") no-repeat center center;
+}
+.group_master {
+  background: url("../../../../img/dashboard/group_master.png") no-repeat center center;
+}
+.publisher_master {
+  background: url("../../../../img/dashboard/publisher_master.png") no-repeat center center;
+}
+.library_transaction {
+  background: url("../../../../img/dashboard/library_transaction.png") no-repeat center center;
+}
+.bookbank_transaction {
+  background: url("../../../../img/dashboard/bookbank_transaction.png") no-repeat center center;
+}
+.news_paper_master {
+  background: url("../../../../img/dashboard/news_paper_master.png") no-repeat center center;
+}
+.serial_news_paper {
+  background: url("../../../../img/dashboard/serial_news_paper.png") no-repeat center center;
+}
+.subscription {
+  background: url("../../../../img/dashboard/subscription.png") no-repeat center center;
+}
+.receive_serial {
+  background: url("../../../../img/dashboard/receive_serial.png") no-repeat center center;
+}
+.sms_sender {
+  background: url("../../../../img/dashboard/sms_sender.png") no-repeat center center;
+}
+.bulk_editing {
+  background: url("../../../../img/dashboard/bulk_editng.png") no-repeat center center;
+}
+.library_verication {
+  background: url("../../../../img/dashboard/libaray_verification.png") no-repeat center center;
+}
+.fine_collection {
+  background: url("../../../../img/dashboard/fine_collection.png") no-repeat center center;
+}
+.library_visitor_records {
+  background: url("../../../../img/dashboard/library_visitor_records.png") no-repeat center center;
+}
+.inquiries {
+  background: url("../../../../img/dashboard/inquiries.png") no-repeat center center;
+}
+.documents_chacklist {
+  background: url("../../../../img/dashboard/documents_chacklist.png") no-repeat center center;
+}
+.salary_extra_allownses {
+  background: url("../../../../img/dashboard/salary_extra_allownses.png") no-repeat center center;
+}
+.loan_to_employee {
+  background: url("../../../../img/dashboard/loan_to_employee.png") no-repeat center center;
+}
+.salary_generation {
+  background: url("../../../../img/dashboard/salary_generation.png") no-repeat center center;
+}
+.pramotion {
+  background: url("../../../../img/dashboard/pramotion.png") no-repeat center center;
+}
+.demotion {
+  background: url("../../../../img/dashboard/demotion.png") no-repeat center center;
+}
+.termination {
+  background: url("../../../../img/dashboard/termination.png") no-repeat center center;
+}
+.employee_performance {
+  background: url("../../../../img/dashboard/employee_performance.png") no-repeat center center;
+}
+.store_category {
+  background: url("../../../../img/dashboard/store_category.png") no-repeat center center;
+}
+.department_master {
+  background: url("../../../../img/dashboard/department_master.png") no-repeat center center;
+}
+.store_item_master {
+  background: url("../../../../img/dashboard/store_item_master.png") no-repeat center center;
+}
+.vender_payment {
+  background: url("../../../../img/dashboard/vender_payment.png") no-repeat center center;
+}
+.tender_master {
+  background: url("../../../../img/dashboard/tender_master.png") no-repeat center center;
+}
+.received_quotation {
+  background: url("../../../../img/dashboard/received_quotation.png") no-repeat center center;
+}
+.vender_master {
+  background: url("../../../../img/dashboard/vender_master.png") no-repeat center center;
+}
+.item_distribution {
+  background: url("../../../../img/dashboard/item_distribution.png") no-repeat center center;
+}
+.purchase_order {
+  background: url("../../../../img/dashboard/purchase_order.png") no-repeat center center;
+}
+.account_groups_master {
+  background: url("../../../../img/dashboard/account_groups_master.png") no-repeat center center;
+}
+.account_departments_master {
+  background: url("../../../../img/dashboard/account_departments_master.png") no-repeat center center;
+}
+.account_payment_types_master {
+  background: url("../../../../img/dashboard/account_payment_types_master.png") no-repeat center center;
+}
+.account_balance_sheet_heads_master {
+  background: url("../../../../img/dashboard/account_balance_sheet_heads_master.png") no-repeat center center;
+}
+.account_balance_sheet_sub_heads_master {
+  background: url("../../../../img/dashboard/account_balance_sheet_sub_heads_master.png") no-repeat center center;
+}
+.account_names_master {
+  background: url("../../../../img/dashboard/account_names_master.png") no-repeat center center;
+}
+.account_balance_sheet_details {
+  background: url("../../../../img/dashboard/account_balance_sheet_details.png") no-repeat center center;
+}
+.account_balance_sheet_report {
+  background: url("../../../../img/dashboard/account_balance_sheet_report.png") no-repeat center center;
+}
+.account_ledger_creation {
+  background: url("../../../../img/dashboard/account_ledger_creation.png") no-repeat center center;
+}
+.account_ledger_report {
+  background: url("../../../../img/dashboard/account_ledger_report.png") no-repeat center center;
+}
+.account_cash_book_report {
+  background: url("../../../../img/dashboard/account_cash_book_report.png") no-repeat center center;
+}
+.account_bank_book_report {
+  background: url("../../../../img/dashboard/account_bank_book_report.png") no-repeat center center;
+}
+.account_trial_balance {
+  background: url("../../../../img/dashboard/account_trial_balance.png") no-repeat center center;
+}
+.account_trial_balance_report {
+  background: url("../../../../img/dashboard/account_trial_balance_report.png") no-repeat center center;
+}
+.bank_reconciliation_statement {
+  background: url("../../../../img/dashboard/bank_reconciliation_statement.png") no-repeat center center;
+}
+.bank_reconciliation_statement_report {
+  background: url("../../../../img/dashboard/bank_reconciliation_statement_report.png") no-repeat center center;
+}
+.account_budget {
+  background: url("../../../../img/dashboard/account_budget.png") no-repeat center center;
+}
+.event_winner {
+  background: url("../../../../img/dashboard/event_winner.png") no-repeat center center;
+}
+.event_participants {
+  background: url("../../../../img/dashboard/event_participants.png") no-repeat center center;
+}
+.leave_type {
+  background: url("../../../../img/dashboard/leave_type.png") no-repeat center center;
+}
+.outstanding {
+  background: url("../../../../img/dashboard/outstanding.png") no-repeat center center;
+}
+.staff_attendancy {
+  background: url("../../../../img/dashboard/staff_attendancy.png") no-repeat center center;
+}
+.staff_leave {
+  background: url("../../../../img/dashboard/staff_leave.png") no-repeat center center;
+}
+.staff_registration {
+  background: url("../../../../img/dashboard/staff_registration.png") no-repeat center center;
+}
+.staff_uploaddocument {
+  background: url("../../../../img/dashboard/staff_uploaddocument.png") no-repeat center center;
+}
+.donation {
+  background: url("../../../../img/dashboard/donation.png") no-repeat center center;
+}
+.student_interview {
+  background: url("../../../../img/dashboard/student_interview.png") no-repeat center center;
+}
+.student_document {
+  background: url("../../../../img/dashboard/student_document.png") no-repeat center center;
+}
+.form_fee {
+  background: url("../../../../img/dashboard/form_fee.png") no-repeat center center;
+}
+.appointment_letter {
+  background: url("../../../../img/dashboard/appointment_letter.png") no-repeat center center;
+}
+.experience_letter {
+  background: url("../../../../img/dashboard/experience_letter.png") no-repeat center center;
+}
+.full_final_settlement {
+  background: url("../../../../img/dashboard/full_final_settlement.png") no-repeat center center;
+}
+.send_replay {
+  background: url("../../../../img/dashboard/send_replay.png") no-repeat center center;
+}
+.staff_interview {
+  background: url("../../../../img/dashboard/staff_interview.png") no-repeat center center;
+}
+.job_confirmation_letter {
+  background: url("../../../../img/dashboard/job_confirmation_letter.png") no-repeat center center;
+}
+.library_ledger_master {
+  background: url("../../../../img/dashboard/library_ledger_report.png") no-repeat center center;
+}
+.staff_document_checklist {
+  background: url("../../../../img/dashboard/staff_document_checklist.png") no-repeat center center;
+}
+.exams {
+  background: url("../../../../img/dashboard/exams.png") no-repeat center center;
+}
+.vehicle_attendance {
+  background: url("../../../../img/dashboard/vehicle_attendance.png") no-repeat center center;
+}
+.list_of_students {
+  background: url("../../../../img/dashboard/list_of_students.png") no-repeat center center;
+}
+.vehicle_registration {
+  background: url("../../../../img/dashboard/vehicle_registration.png") no-repeat center center;
+}
+.vehicle_list {
+  background: url("../../../../img/dashboard/vehicle_list.png") no-repeat center center;
+}
+.driver_registration {
+  background: url("../../../../img/dashboard/driver_registration.png") no-repeat center center;
+}
+.pick_up_location {
+  background: url("../../../../img/dashboard/pick_up_location.png") no-repeat center center;
+}
+.vehicle_departure {
+  background: url("../../../../img/dashboard/vehicle_departure.png") no-repeat center center;
+}
+.front_about_us {
+  background: url("../../../../img/dashboard/front_about_us.png") no-repeat center center;
+}
+.front_activities {
+  background: url("../../../../img/dashboard/front_activities.png") no-repeat center center;
+}
+.front_admission {
+  background: url("../../../../img/dashboard/front_admission.png") no-repeat center center;
+}
+.front_contact_us {
+  background: url("../../../../img/dashboard/front_contact_us.png") no-repeat center center;
+}
+.front_course {
+  background: url("../../../../img/dashboard/front_course.png") no-repeat center center;
+}
+.front_facility {
+  background: url("../../../../img/dashboard/front_facility.png") no-repeat center center;
+}
+.front_gallery {
+  background: url("../../../../img/dashboard/front_gallery.png") no-repeat center center;
+}
+.front_philosophy {
+  background: url("../../../../img/dashboard/front_philosophy.png") no-repeat center center;
+}
+.front_slider {
+  background: url("../../../../img/dashboard/front_slider.png") no-repeat center center;
+}
+.front_site_setting {
+  background: url("../../../../img/dashboard/front_site_setting.png") no-repeat center center;
+}
+.fees {
+  background: url("../../../../img/dashboard/fees.png") no-repeat center center;
+}
+.fees_collection_demanddraft {
+  background: url("../../../../img/dashboard/fees_collection_demanddraft.png") no-repeat center center;
+}
+.refund_fees {
+  background: url("../../../../img/dashboard/refund_fees.png") no-repeat center center;
+}
+.fees_due {
+  background: url("../../../../img/dashboard/fees_due.png") no-repeat center center;
+}
+.fees_collection_challan {
+  background: url("../../../../img/dashboard/fees_collection_challan.png") no-repeat center center;
+}
+.received_fees {
+  background: url("../../../../img/dashboard/received_fees.png") no-repeat center center;
+}
+.fees_collection_cheque {
+  background: url("../../../../img/dashboard/fees_collection_cheque.png") no-repeat center center;
+}
+.fees_collection {
+  background: url("../../../../img/dashboard/fees_collection.png") no-repeat center center;
+}
+.advance_fees {
+  background: url("../../../../img/dashboard/advance_fees.png") no-repeat center center;
+}
+.admission_fees {
+  background: url("../../../../img/dashboard/admission_fees.png") no-repeat center center;
+}
+.month_distribution {
+  background: url("../../../../img/dashboard/month_distribution.png") no-repeat center center;
+}
+.item_purchase {
+  background: url("../../../../img/dashboard/item_purchase.png") no-repeat center center;
+}
+.item_receive_request {
+  background: url("../../../../img/dashboard/item_receive_request.png") no-repeat center center;
+}
+.stock {
+  background: url("../../../../img/dashboard/stock.png") no-repeat center center;
+}
+.stock_report {
+  background: url("../../../../img/dashboard/stock_report.png") no-repeat center center;
+}
+.user_list {
+  background: url("../../../../img/dashboard/user_list.png") no-repeat center center;
+}
+.academic_classes {
+  background: url("../../../../img/dashboard/academic_classes.png") no-repeat center center;
+}
+.academic_sections {
+  background: url("../../../../img/dashboard/academic_sections.png") no-repeat center center;
+}
+.country {
+  background: url("../../../../img/dashboard/country.png") no-repeat center center;
+}
+.state {
+  background: url("../../../../img/dashboard/state.png") no-repeat center center;
+}
+.print_documents {
+  background: url("../../../../img/dashboard/print_documents.png") no-repeat center center;
+}
+.front_services {
+  background: url("../../../../img/dashboard/front_services.png") no-repeat center center;
+}
+.personal_profile {
+  background: url("../../../../img/dashboard/personal_profile.png") no-repeat center center;
+}
+.departments {
+  background: url("../../../../img/dashboard/departments.png") no-repeat center center;
+}
+.activity {
+  background: url("../../../../img/dashboard/activity.png") no-repeat center center;
+}
+.media {
+  background: url("../../../../img/dashboard/media.png") no-repeat center center;
+}
+.general_settings {
+  background: url("../../../../img/dashboard/general_settings.png") no-repeat center center;
+}
+.database_backup {
+  background: url("../../../../img/dashboard/database_backup.png") no-repeat center center;
+}
+.exam_syllabus {
+  background: url("../../../../img/dashboard/exam_syllabus.png") no-repeat center center;
+}
+.exam_grade {
+  background: url("../../../../img/dashboard/exam_grade.png") no-repeat center center;
+}
+.exam_oral_marks {
+  background: url("../../../../img/dashboard/exam_oral_marks.png") no-repeat center center;
+}
+.exam_remark {
+  background: url("../../../../img/dashboard/exam_remark.png") no-repeat center center;
+}
+.exam_written_marks {
+  background: url("../../../../img/dashboard/exam_written_marks.png") no-repeat center center;
+}
+.circular_group {
+  background: url("../../../../img/dashboard/circular_group.png") no-repeat center center;
+}

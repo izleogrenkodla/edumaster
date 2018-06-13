@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box-frome{
+	width:100%;
+	height:100%;
+	float:left;	
+	//margin-top:10px;
+}
+.box-in-frome{
+	width:100%;
+	 min-height: 480px;
+	height:auto;
+	background:#000;
+	//margin-top:10px;
+	float:left;
+	background:url(../image/bac-home.png);
+}
+
+.in-bac-pages{
+	width:35%;
+	height:auto;
+	background:rgba(255,255,255,0.9);	
+	padding:20px;
+	 margin: 25px;
+}
+.ad-fonrt{
+	color:#000;
+	text-align:center;
+	text-decoration:underline;
+}
+.sel-box{
+	width:100%;
+	height:40px;
+	float:left;
+	text-align:left;
+	background:#fff;
+	line-height:40px;
+	color:#000;
+	font-weight:bold;
+	padding-left:15px;
+	border:1px solid #CACACA;
+}	
+.mr-top{
+	margin: -18% 0 0 25%;	
+}
+.input-box{
+	width:100%;
+	height:40px;
+	float:left;
+	background:#fff;
+	line-height:40px;
+	margin-top:10px;
+	color:#000;
+	padding-left:15px;
+	font-weight:bold;
+	margin-right:3px;
+	border:1px solid #CACACA;
+}	
+.botun-serch{
+	background: #f1f1f1 none repeat scroll 0 0;
+    border: 4px solid #cacaca;
+    color: #000;
+    font-weight: bold;
+    height: 40px;
+    margin-top: 10px;
+    padding: 0 25px;
+}
+.botun-serch:hover{
+	border:4px solid #000;
+	transition:0.7s all;
+}
+.dab-tabue{
+	background: rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
+    height: auto;
+    padding: 20px;
+    width: 80%;	
+	margin-top:40px;
+}
+.mar-full{
+	margin-left:82% !important;	
+}
+.man-text{
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:5px 0;	
+}
+div.upload {
+ 	width:100%;
+	height: 40px;
+	float:left;
+	text-align:left;
+	margin:5px 0;
+	border:1px solid #CACACA;
+}
+
+div.upload input {
+    display: block !important;
+    width: 100% !important;
+    height: 40px !important;
+    opacity: 0 !important;
+    overflow: hidden !important;
+}
+.footer{
+	width:100%;
+	padding:5px 0;
+	float:left;
+	background:#000;
+}	

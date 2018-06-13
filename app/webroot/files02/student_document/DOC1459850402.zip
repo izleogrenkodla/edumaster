@@ -1,0 +1,23 @@
+echo $this->General->getLastQuery();
+		die;
+
+$News['News']['START_DATE'] = date('d/m/Y', strtotime(str_replace('-','/',$News['News']['START_DATE'])));
+$this->request->data['News']['START_DATE'] = $this->General->datefordb($this->request->data['News']['START_DATE']);
+
+
+Hello,
+
+Here I have given Edumaster Server Details.
+
+http://edumaster.co.in:2082/
+
+Username: edumasterco
+password: M5WkxEh+!~zx
+
+
+Thanks,
+Mayank Gajjar
+
+
+1.Remove selected_users in AcademicHistoryController.php, line 118
+2.

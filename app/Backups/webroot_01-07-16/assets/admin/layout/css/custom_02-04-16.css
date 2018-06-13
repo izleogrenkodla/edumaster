@@ -1,0 +1,726 @@
+/* here you can put your own css to customize and override the theme */
+
+.logo .form-title, .page-logo .form-title {
+    color: #EEE !important;
+    margin: 0;
+    padding: 0;
+}
+
+.error-message {
+    color: #A94442;
+}
+
+.custom_form .custom_block .input-small {
+    float: left;
+    width: 110px !important;
+    margin-bottom: 15px !important;
+    margin-right: 15px !important;
+}
+
+.custom_form .control-label {
+	float: left;
+    padding-top: 4px;
+}
+
+.custom_form .custom_block .form-control {
+    line-height: 18px;
+    font-size: 12px;
+    height: 26px;
+}
+
+
+/* Sidebar Menu */
+.page-sidebar {}
+.page-sidebar .page-sidebar-menu {}
+.page-sidebar .page-sidebar-menu > li {
+    border: 0 none;
+    border-bottom: 1px solid #888 !important;
+}
+.page-sidebar .page-sidebar-menu > li.open {
+    position: relative;
+}
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:last-child > a, 
+.page-sidebar .page-sidebar-menu > li:last-child > a {
+    border-bottom: 0 !important;
+}
+
+
+.page-sidebar .page-sidebar-menu li a {
+    padding: 0 !important;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: table !important;
+    vertical-align: middle;
+    border: 0 none !important;
+    background-color: #333 !important;
+}
+.page-sidebar .page-sidebar-menu li a:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.page-sidebar .page-sidebar-menu li a .title {
+    display: table-cell;
+    width: 155px;
+    vertical-align: middle;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.page-sidebar .page-sidebar-menu li a .arrow {
+    display: table-cell;
+    vertical-align: middle;
+    width: 15px;
+    padding: 0 5px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.page-sidebar .page-sidebar-menu li a .arrow:before,
+.page-sidebar .page-sidebar-menu li a .arrow.open:before {
+    margin: 0 !important;
+}
+.page-sidebar .page-sidebar-menu li a .icn {
+    display: table-cell;
+    vertical-align: middle;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main {
+    width: 60px;
+    height: 60px;
+    position: relative;
+/*    background:url("../../../../img/menu_icons/icn_main_bg.png") no-repeat center center;*/
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main:before {
+    content: "";
+    background:url("../../../../img/menu_icons/icn_main_myprofile.png") no-repeat center center;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 60px;
+    height: 60px;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_acadamic_history:before {
+    background:url("../../../../img/menu_icons/icn_main_acadamic_history.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_admission_section:before {
+    background:url("../../../../img/menu_icons/icn_main_admission_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_attendance:before {
+    background:url("../../../../img/menu_icons/icn_main_attendance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_circular:before {
+    background:url("../../../../img/menu_icons/icn_main_circular.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_contact_list:before {
+    background:url("../../../../img/menu_icons/icn_main_contact_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_contactus:before {
+    background:url("../../../../img/menu_icons/icn_main_contactus.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_dailydiary:before {
+    background:url("../../../../img/menu_icons/icn_main_dailydiary.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_download:before {
+    background:url("../../../../img/menu_icons/icn_main_download.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_ebook:before {
+    background:url("../../../../img/menu_icons/icn_main_ebook.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_events:before {
+    background:url("../../../../img/menu_icons/icn_main_events.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_exam_result:before {
+    background:url("../../../../img/menu_icons/icn_main_exam_result.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_gallery:before {
+    background:url("../../../../img/menu_icons/icn_main_gallery.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_general_setting:before {
+    background:url("../../../../img/menu_icons/icn_main_general_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_guest_setting:before {
+    background:url("../../../../img/menu_icons/icn_main_guest_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_idcard:before {
+    background:url("../../../../img/menu_icons/icn_main_idcard.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_leave_application:before {
+    background:url("../../../../img/menu_icons/icn_main_leave_application.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_mailer:before {
+    background:url("../../../../img/menu_icons/icn_main_mailer.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_myprofile:before {
+    background:url("../../../../img/menu_icons/icn_main_myprofile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_news_update:before {
+    background:url("../../../../img/menu_icons/icn_main_news_update.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_remarks:before {
+    background:url("../../../../img/menu_icons/icn_main_remarks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_share_app:before {
+    background:url("../../../../img/menu_icons/icn_main_share_app.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_sms:before {
+    background:url("../../../../img/menu_icons/icn_main_sms.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_super_admin:before {
+    background:url("../../../../img/menu_icons/icn_main_super_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_tiktalk:before {
+    background:url("../../../../img/menu_icons/icn_main_tiktalk.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_time_table:before {
+    background:url("../../../../img/menu_icons/icn_main_time_table.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_user_suggestion:before {
+    background:url("../../../../img/menu_icons/icn_main_user_suggestion.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_utility_help:before {
+    background:url("../../../../img/menu_icons/icn_main_utility_help.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_accounts:before {
+    background:url("../../../../img/menu_icons/icn_main_accounts.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_admin:before {
+    background:url("../../../../img/menu_icons/icn_main_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_canteen:before {
+    background:url("../../../../img/menu_icons/icn_main_canteen.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_front_office:before {
+    background:url("../../../../img/menu_icons/icn_main_front_office.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_hostel:before {
+    background:url("../../../../img/menu_icons/icn_main_hostel.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_hr:before {
+    background:url("../../../../img/menu_icons/icn_main_hr.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_library:before {
+    background:url("../../../../img/menu_icons/icn_main_library.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_security:before {
+    background:url("../../../../img/menu_icons/icn_main_security.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_store_purchase:before {
+    background:url("../../../../img/menu_icons/icn_main_store_purchase.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_student:before {
+    background:url("../../../../img/menu_icons/icn_main_student.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_supervisor:before {
+    background:url("../../../../img/menu_icons/icn_main_supervisor.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_teacher:before {
+    background:url("../../../../img/menu_icons/icn_main_teacher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_main_transport:before {
+    background:url("../../../../img/menu_icons/icn_main_transport.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_home_work:before {
+    background:url("../../../../img/menu_icons/icn_home_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_class_work:before {
+    background:url("../../../../img/menu_icons/icn_class_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_view_all:before {
+    background:url("../../../../img/menu_icons/icn_view_all.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_add:before {
+    background:url("../../../../img/menu_icons/icn_add.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_driver_profile:before {
+    background:url("../../../../img/menu_icons/icn_driver_profile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_route_schedule:before {
+    background:url("../../../../img/menu_icons/icn_route_schedule.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_notice_board:before {
+    background:url("../../../../img/menu_icons/icn_notice_board.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_app-admission:before {
+    background:url("../../../../img/menu_icons/icn_app-admission") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_section:before {
+    background:url("../../../../img/menu_icons/icn_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_exam_type:before {
+    background:url("../../../../img/menu_icons/icn_exam_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_holiday:before {
+    background:url("../../../../img/menu_icons/icn_holiday.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_imports:before {
+    background:url("../../../../img/menu_icons/icn_imports.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_subject:before {
+    background:url("../../../../img/menu_icons/icn_subject.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_fee:before {
+    background:url("../../../../img/menu_icons/icn_fee.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li a .icn.icn_main.icn_fee_type:before {
+    background:url("../../../../img/menu_icons/icn_fee_type.png") no-repeat center center;
+}
+
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_blood_group:before {
+    background:url("../../../../img/menu_icons/icn_blood_group.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_cast_categories:before {
+    background:url("../../../../img/menu_icons/icn_cast_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_categories:before {
+    background:url("../../../../img/menu_icons/icn_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_city:before {
+    background:url("../../../../img/menu_icons/icn_city.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_medium:before {
+    background:url("../../../../img/menu_icons/icn_medium.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_content:before {
+    background:url("../../../../img/menu_icons/icn_pages_content.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_name:before {
+    background:url("../../../../img/menu_icons/icn_pages_name.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_schools:before {
+    background:url("../../../../img/menu_icons/icn_schools.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_Manage_certification:before {
+    background:url("../../../../img/menu_icons/icn_Manage_certification.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_brocher:before {
+    background:url("../../../../img/menu_icons/icn_brocher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+    background:url("../../../../img/menu_icons/icn_achievements.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vacancy:before {
+    background:url("../../../../img/menu_icons/icn_vacancy.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+    background:url("../../../../img/menu_icons/icn_achievements.png") no-repeat center center;
+}
+
+
+
+/* Sub Menu */
+.page-sidebar .page-sidebar-menu li .sub-menu {
+    margin: 0 !important;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: none;
+    background-color: #444 !important;
+/*
+    -webkit-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
+*/
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li {
+    border-top: 0px solid #CCC !important;
+    border-bottom: 1px solid #666 !important;
+    margin: 0 !important;
+    position: relative;
+}
+
+.page-sidebar .page-sidebar-menu li.open .sub-menu {
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width: 100%;
+    display: block;
+    z-index: 1;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li .sub-menu {
+    display: none;
+}
+.page-sidebar .page-sidebar-menu li.open .sub-menu li.open {
+    position: relative;
+}
+.page-sidebar .page-sidebar-menu li.open .sub-menu li.open .sub-menu {
+    display: block;
+}
+
+.page-sidebar .page-sidebar-menu li .sub-menu li .sub-menu li .sub-menu {
+    display: none;
+}
+.page-sidebar .page-sidebar-menu li.open .sub-menu li.open .sub-menu li.open {
+    position: relative;
+}
+.page-sidebar .page-sidebar-menu li.open .sub-menu li.open .sub-menu li.open .sub-menu {
+    display: block;
+}
+/* Hover */
+.page-sidebar .page-sidebar-menu li .sub-menu li:hover a {
+    width: 100%;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li:hover .sub-menu {
+    display: block;
+    left: 100%;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    background-color: #777 !important;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li:hover .sub-menu li {
+    border-bottom: 1px solid #555 !important;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li .sub-menu li:hover .sub-menu {
+    display: block;
+    left: 100%;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    background-color: #999 !important;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li .sub-menu li:hover .sub-menu li {
+    border-bottom: 1px solid #777 !important;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li .sub-menu li .sub-menu li:hover .sub-menu {
+    display: block;
+    left: 100%;
+    top: 0;
+    width: 100%;
+    position: absolute;
+}
+
+
+
+.page-sidebar .page-sidebar-menu li .sub-menu li {}
+.page-sidebar .page-sidebar-menu li .sub-menu li a {
+    background-color: transparent!important;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .title {
+    display: table-cell;
+    width: 175px;
+    vertical-align: middle;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub {
+    width: 40px;
+    height: 40px;
+    position: relative;
+/*    background:url("../../../../img/menu_icons/icn_sub_bg.png") no-repeat center center;*/
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub:before {
+    content: "";
+    background:url("../../../../img/menu_icons/icn_sub_myprofile.png") no-repeat center center;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_acadamic_history:before {
+    background:url("../../../../img/menu_icons/icn_sub_acadamic_history.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_admission_section:before {
+    background:url("../../../../img/menu_icons/icn_sub_admission_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_attendance:before {
+    background:url("../../../../img/menu_icons/icn_sub_attendance.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_circular:before {
+    background:url("../../../../img/menu_icons/icn_sub_circular.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_contact_list:before {
+    background:url("../../../../img/menu_icons/icn_sub_contact_list.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_contactus:before {
+    background:url("../../../../img/menu_icons/icn_sub_contactus.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_dailydiary:before {
+    background:url("../../../../img/menu_icons/icn_sub_dailydiary.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_download:before {
+    background:url("../../../../img/menu_icons/icn_sub_download.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_ebook:before {
+    background:url("../../../../img/menu_icons/icn_sub_ebook.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_events:before {
+    background:url("../../../../img/menu_icons/icn_sub_events.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_exam_result:before {
+    background:url("../../../../img/menu_icons/icn_sub_exam_result.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_gallery:before {
+    background:url("../../../../img/menu_icons/icn_sub_gallery.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_general_setting:before {
+    background:url("../../../../img/menu_icons/icn_sub_general_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_guest_setting:before {
+    background:url("../../../../img/menu_icons/icn_sub_guest_setting.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_idcard:before {
+    background:url("../../../../img/menu_icons/icn_sub_idcard.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_leave_application:before {
+    background:url("../../../../img/menu_icons/icn_sub_leave_application.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_mailer:before {
+    background:url("../../../../img/menu_icons/icn_sub_mailer.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_myprofile:before {
+    background:url("../../../../img/menu_icons/icn_sub_myprofile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_news_update:before {
+    background:url("../../../../img/menu_icons/icn_sub_news_update.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_remarks:before {
+    background:url("../../../../img/menu_icons/icn_sub_remarks.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_share_app:before {
+    background:url("../../../../img/menu_icons/icn_sub_share_app.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_sms:before {
+    background:url("../../../../img/menu_icons/icn_sub_sms.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_super_admin:before {
+    background:url("../../../../img/menu_icons/icn_sub_super_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_tiktalk:before {
+    background:url("../../../../img/menu_icons/icn_sub_tiktalk.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_time_table:before {
+    background:url("../../../../img/menu_icons/icn_sub_time_table.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_user_suggestion:before {
+    background:url("../../../../img/menu_icons/icn_sub_user_suggestion.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_utility_help:before {
+    background:url("../../../../img/menu_icons/icn_sub_utility_help.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_accounts:before {
+    background:url("../../../../img/menu_icons/icn_sub_accounts.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_admin:before {
+    background:url("../../../../img/menu_icons/icn_sub_admin.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_canteen:before {
+    background:url("../../../../img/menu_icons/icn_sub_canteen.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_front_office:before {
+    background:url("../../../../img/menu_icons/icn_sub_front_office.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_hostel:before {
+    background:url("../../../../img/menu_icons/icn_sub_hostel.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_hr:before {
+    background:url("../../../../img/menu_icons/icn_sub_hr.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_library:before {
+    background:url("../../../../img/menu_icons/icn_sub_library.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_security:before {
+    background:url("../../../../img/menu_icons/icn_sub_security.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_store_purchase:before {
+    background:url("../../../../img/menu_icons/icn_sub_store_purchase.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_student:before {
+    background:url("../../../../img/menu_icons/icn_sub_student.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_supervisor:before {
+    background:url("../../../../img/menu_icons/icn_sub_supervisor.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_teacher:before {
+    background:url("../../../../img/menu_icons/icn_sub_teacher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_transport:before {
+    background:url("../../../../img/menu_icons/icn_sub_transport.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_home:before {
+    background:url("../../../../img/menu_icons/icn_sub_home.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_add:before {
+    background:url("../../../../img/menu_icons/icn_sub_add.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_view:before {
+    background:url("../../../../img/menu_icons/icn_sub_view.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_home_work:before {
+    background:url("../../../../img/menu_icons/icn_sub_home_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_class_work:before {
+    background:url("../../../../img/menu_icons/icn_sub_class_work.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_view_all:before {
+    background:url("../../../../img/menu_icons/icn_sub_view_all.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_add:before {
+    background:url("../../../../img/menu_icons/icn_sub_add.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_driver_profile:before {
+    background:url("../../../../img/menu_icons/icn_sub_driver_profile.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_route_schedule:before {
+    background:url("../../../../img/menu_icons/icn_sub_route_schedule.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_notice_board:before {
+    background:url("../../../../img/menu_icons/icn_sub_notice_board.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_app_admission:before {
+    background:url("../../../../img/menu_icons/icn_sub_app_admission.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_section:before {
+    background:url("../../../../img/menu_icons/icn_sub_section.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_exam_type:before {
+    background:url("../../../../img/menu_icons/icn_sub_exam_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_holiday:before {
+    background:url("../../../../img/menu_icons/icn_sub_holiday.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_imports:before {
+    background:url("../../../../img/menu_icons/icn_sub_imports.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_subject:before {
+    background:url("../../../../img/menu_icons/icn_sub_subject.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fee:before {
+    background:url("../../../../img/menu_icons/icn_sub_fee.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_fee_type:before {
+    background:url("../../../../img/menu_icons/icn_sub_fee_type.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_blood_group:before {
+    background:url("../../../../img/menu_icons/icn_sub_blood_group.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_cast_categories:before {
+    background:url("../../../../img/menu_icons/icn_sub_cast_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_categories:before {
+    background:url("../../../../img/menu_icons/icn_sub_categories.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_city:before {
+    background:url("../../../../img/menu_icons/icn_sub_city.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_medium:before {
+    background:url("../../../../img/menu_icons/icn_sub_medium.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_content:before {
+    background:url("../../../../img/menu_icons/icn_sub_pages_content.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_pages_name:before {
+    background:url("../../../../img/menu_icons/icn_sub_pages_name.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_schools:before {
+    background:url("../../../../img/menu_icons/icn_sub_schools.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_Manage_certification:before {
+    background:url("../../../../img/menu_icons/icn_sub_Manage_certification.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_brocher:before {
+    background:url("../../../../img/menu_icons/icn_sub_brocher.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+    background:url("../../../../img/menu_icons/icn_sub_achievements.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_vacancy:before {
+    background:url("../../../../img/menu_icons/icn_sub_vacancy.png") no-repeat center center;
+}
+.page-sidebar .page-sidebar-menu li .sub-menu li a .icn.icn_sub.icn_sub_achievements:before {
+    background:url("../../../../img/menu_icons/icn_sub_achievements.png") no-repeat center center;
+}
+
+
+
+
+
+
+
+
+/* End: Sidebar Menu */
+
+
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .sidebar-toggler, 
+.page-sidebar .sidebar-toggler {
+    float: left !important;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #333 !important;
+    width: 60px;
+    height: 60px;
+    display: block;
+}
+.page-sidebar .sidebar-toggler:before {
+    content: "\f060";
+    font-family: "FontAwesome";
+    color: #FFF;
+    font-size: 28px;
+    line-height: 60px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    height: 60px;
+    display: block;
+    text-align: center;
+}
+.page-sidebar-closed .page-sidebar .sidebar-toggler:before {
+    content: "\f0c9";
+}
+
+.page-sidebar-fixed.page-sidebar-hover-on .page-content-wrapper .page-content {
+    margin-left: 60px;
+}
+.page-sidebar-reversed .page-content-wrapper .page-content {
+    margin-left: 0 !important;
+    margin-right: 235px !important;
+}
+.page-sidebar-reversed.page-sidebar-fixed.page-sidebar-hover-on .page-content-wrapper .page-content {
+    margin-left: 0;
+    margin-right: 60px;
+}
+.page-sidebar-reversed.page-sidebar-closed .page-content-wrapper .page-content {
+    margin-left: 0 !important;
+    margin-right: 60px !important;
+}
+.page-sidebar-closed .page-content-wrapper .page-content {
+    margin-left: 60px !important;
+}
+
+/*
+.menu_overlay  {
+    display: none;
+}
+.overlay_bg .menu_overlay {
+    background: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+}
+*/
+.sidebar-toggler-wrapper { display: none !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

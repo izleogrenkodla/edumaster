@@ -1,0 +1,1444 @@
+/* =========================== COMMON CSS =========================== */
+
+body, li, ul, ol, a {
+    margin:0;
+    padding:0;
+    font-family:"Open Sans",sans-serif;
+    color:#414141;
+}
+a, a:hover {
+    text-decoration:none;
+}
+.leftcontent {
+    float:left;
+}
+.rightcontent {
+    float:right;
+}
+.nomargin {
+    margin:0 !important;
+}
+.nopadding {
+    padding:0 !important;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1170px;
+}
+.alignright {
+    text-align:center;
+}
+/* =========================== FORM CSS =========================== */
+
+.formfield {
+    clear: both;
+    display: block;
+    margin: 0 0 20px;
+    overflow: hidden;
+}
+.formtext {
+    font-size: 12px;
+    line-height: 25px;
+    text-align: right;
+    width: 138px;
+}
+
+.leftform, .rightform {
+    width: 48%;
+}
+.register input[type="text"], .register textarea, .register input[type="password"] , .register input[type="email"] {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    height: 20px;
+    padding: 3px 5px;
+    width: 238px;
+}
+span.required {
+    color: #ff0000;
+    margin: 0 2px;
+}
+.formvalue {
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+    margin: 0 0 0 10px;
+}
+textarea {
+    resize: none;
+}
+select {
+    height: 30px;
+    width: 250px;
+}
+input[type="button"], input[type="submit"], input[type="reset"] {
+    background: none repeat scroll 0 0 #ED3237;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 17px;
+    margin: 0 0 0 15px;
+    padding: 4px 10px;
+    cursor: pointer;
+}
+/* =========================== HEADER CSS =========================== */
+
+#headerwrapper {
+    display: block;
+    overflow: hidden;
+    padding: 10px 0;
+}
+#rightheader {
+    margin: 5px 0 0;
+}
+.hedaerlink {
+    border-radius: 3px;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-transform:uppercase;
+}
+.stfportallink {
+    background: #000000;
+}
+.reglink {
+    background:#ED3237;
+    margin: 0 15px 0 0;
+}
+.social {
+    clear: both;
+    margin: 10px 0 0;
+}
+.hedaerlinkwrapper a {
+    display: inline-block;
+}
+/* =========================== NAV CSS =========================== */
+
+#navwrapper {
+    background: #ED3237;
+    height: 43px;
+}
+#navwrapper li {
+    display: inline-block;
+    float: left;
+}
+#navwrapper a {
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 43px;
+    padding: 0 17px 0 37px;
+    text-transform: uppercase;
+}
+.homeicon {
+    background:url(../images/home.png) no-repeat left center;
+}
+.serviceicon {
+    background:url(../images/services.png) no-repeat left center;
+}
+.keybenefiticon {
+    background:url(../images/benefits.png) no-repeat left center;
+}
+.costicon {
+    background:url(../images/cost.png) no-repeat left center;
+}
+.applyicon {
+    background:url(../images/apply.png) no-repeat left center;
+}
+.faqicon {
+    background:url(../images/faq.png) no-repeat left center;
+}
+.contacticon {
+    background:url(../images/contactus.png) no-repeat left center;
+}
+.applicationicon {
+    background:url(../images/application.png) no-repeat left center;
+}
+/* =========================== SIDEBAR CSS =========================== */
+
+#sidebar {
+    width: 18.042%;
+}
+.sidebartitle {
+    color: #414141;
+    font-family: Arial;
+    font-size: 26px;
+    line-height: 1.84615;
+    padding: 0;
+    text-align: left;
+}
+#sidebar li {
+    border-bottom: 1px solid #cccccc;
+    color: #ED3237;
+    font-size: 13px;
+    line-height: 23px;
+    list-style: outside none none;
+    margin: 5px 0 0;
+}
+#sidebar li:last-child {
+    border: medium none;
+}
+.sidecontact {
+    font-size: 15px;
+    line-height: 1.84615;
+}
+.sidebarblock {
+    margin: 0 0 30px;
+}
+/* =========================== MAINCONTENT CSS =========================== */
+
+#mainwrapper {
+    display: block;
+    margin: 15px 0 0;
+    overflow: hidden;
+    clear:both;
+}
+#maincontent {
+    width:80%;
+}
+.pagetitle {
+    border-bottom: 1px solid;
+    color: #414141;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    margin: 7px 0 10px;
+    padding: 0 0 5px;
+}
+/* =========================== FOOTER CSS =========================== */
+
+#footerwrapper {
+    background: #ED3237;
+    border-bottom: 2px solid #000;
+    clear: both;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    line-height: 4;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0;
+}
+.copyright {
+    text-align:center;
+}
+.chktext {
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 25px;
+    text-align: right;
+}
+.rmm{
+    display:none !important;
+}
+.add_more_block {
+    clear: both;
+    float: left;
+    margin: 0 0 0 10px;
+    width: 262px;
+}
+.add_more_button {
+    background: #ED3237;
+    border: 1px solid #000;
+    border-radius: 4px;
+    color: #fff;
+    float: right;
+    font-size: 11px;
+    font-weight: normal;
+    margin: 0 0 0 30px;
+    padding: 1px;
+    cursor:pointer;
+}
+
+.fa-item i {
+    font-size: 16px;
+    display: inline-block;
+    width: 20px;
+    color: #333;
+    font-style: normal;
+}
+
+.additional_upload {
+    margin-bottom: 10px;
+    display: inline-block !important;
+}
+
+.add_more_block .fa-item {
+    display: inline-block;
+    float: none !important;
+    padding: 0;
+    margin-left: 15px;
+    width: 15px;
+    margin-top: 0;
+    cursor: pointer;
+}
+
+.multiselect {
+    width: 265px;
+    height: auto;
+    border: 1px solid #ccc;
+    padding: 3px 5px;
+    border-radius: 3px;
+    overflow:auto;
+}
+
+.multiselect label {
+    display: block;
+    font-family: "Open Sans",sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.multiselect-on {
+    color:#ffffff;
+    background-color:#676767;
+}
+@media screen and (max-width:1169px) {
+    .accountinfo .rightdesc
+    {
+        width:670px;
+    }
+}
+@media screen and (max-width:1122px) {
+    .accountinfo .rightdesc {
+        width: 636px;
+    }
+}
+@media screen and (max-width:1167px) {
+    .formtext {
+        text-align:left;
+        margin: 0 0 0 13px;
+    }
+    #maincontent {
+        margin: 0 0 0 10px;
+    }
+}
+@media screen and (max-width:1084px)
+{
+    .rightdesc table{
+        width:100%;
+    }
+    .rightdesc {
+        max-width: 520px;
+        width:100%;
+    }
+}
+@media screen and (max-width:1024px) {
+    td:before{
+        width: 26%;
+    }
+    .rightdesc {
+        max-width: 100%;
+    }
+    .leftmenu li{
+        padding: 6px 20px;
+        display: inline;
+    }
+    .accountinfo .leftmenu{
+        max-width: 635px;
+        width: 100%;
+        margin:0 0 15px 0;
+    }
+    #headerwrapper{
+        padding:10px;
+    }
+    #navwrapper{
+        padding:0 10px;
+    }
+    .formtextgender{
+        clear: both;
+        display: block;
+        float: none;
+    }
+    .charges{
+        width: 260px;
+    }
+    #maincontent {
+        width: 67%;
+    }
+    #sidebar {
+        width: 28.042%;
+    }
+}
+@media screen and (max-width:939px) {
+    .register textarea {
+        border-width: 1px 0 1px 1px !important;
+        max-width: 191px !important;
+        width: 100%;
+
+    }
+    .register input[type="text"], .register textarea, .register input[type="password"], .register input[type="email"], .register select{
+        width:200px !important;
+    }
+    .register select{
+        border-radius:3px !important;
+        width:246px !important;
+    }
+    .chktext{
+        text-align:left;
+    }
+}
+@media screen and (max-width:880px) {
+    .pagedesc .loginhome input[type="text"], .loginhome textarea, .loginhome input[type="password"], .loginhome input[type="email"] {
+        height:30px !important;
+    }
+    .beforewelcome.leftcontent{
+        width:310px;
+        margin:0 auto 10px;
+    }
+    #logowrapper.leftcontent {
+        float: none;
+        margin: 0 auto;
+        width: 400px;
+    }
+    #rightheader.rightcontent {
+        float: none;
+        margin: 10px auto 10px;
+        width: 400px;
+    }
+    .social.rightcontent {
+        clear: both;
+        float: none;
+        margin: 10px 0 0 !important;
+        text-align: center;
+    }
+}
+@media screen and (max-width:832px) {
+    .loginhome .formtext{
+        text-align:left !important;
+    }
+    input[type="button"], input[type="submit"], input[type="reset"] {
+        margin: 10px 0 0 22px;
+    }
+    .hedaerlinkwrapper.rightcontent {
+        margin: 10px 0 0;
+    }
+    .rightform.rightcontent {
+        float: none;
+        margin: 0 auto;
+        width: 50%;
+    }
+    .formfield{
+        margin:0 0 10px 0;
+    }
+    .multiselect{
+        width: 242px;
+    }
+}
+@media screen and (max-width:801px) {
+
+
+    .rightform.rightcontent {
+        float: none;
+        margin: 0 auto;
+        width: 60%;
+    }
+
+    input[type="button"], input[type="submit"], input[type="reset"]{
+        margin: 0 0 12px 15px;
+    }
+    .hedaerlinkwrapper {
+        margin: 10px 0;
+    }
+    #rightheader {
+        float: none;
+    }
+
+}
+@media screen and (max-width:768px) {
+    input[type="button"], input[type="submit"], input[type="reset"]{
+        margin:10px;
+    }
+    .accountinfo .leftmenu {
+        float: none;
+        margin: 0 0 24px 13px;
+        width: 91%;
+    }
+    .homeicon, .serviceicon, .keybenefiticon, .costicon, .applyicon, .faqicon, .contacticon, .applicationicon{
+        background-position:1% 36%;
+    }
+
+    .accountinfo .rightdesc {
+        float: none;
+        margin: 0 auto;
+        width: 84%;
+    }
+    #logowrapper.leftcontent {
+        float: none;
+        margin: 0 auto;
+        max-width: 402px;
+        width: 100%;
+    }
+
+    #rightheader {
+        float: none;
+    }
+    .social {
+        float: none;
+        margin: 0 auto !important;
+    }
+    #sidebar.rightcontent {
+        float: none;
+    }
+
+    #maincontent {
+        width: 100%;
+    }
+    #sidebar.rightcontent {
+        display: block;
+        float: none;
+    }
+    .sidebarwrapper {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 600px;
+    }
+    #sidebar.rightcontent {
+        background: #e6e6e6;
+        clear: both;
+        display: block;
+        float: none;
+        overflow: hidden;
+        width: 100%;
+    }
+    .service {
+        float: left;
+        margin: 0 37px 0 0;
+        width: 46%;
+    }
+    .contact {
+        float: left;
+        width: 42%;
+    }
+    .pagetitle {
+        text-align: center;
+    }
+    .formtext{
+        width:259px;
+    }
+    /* TOGGLE MENU */
+    .rmm{
+        display:block !important;
+    }
+    #navwrapper{
+        display:none !important;
+    }
+}
+
+@media screen and (max-width:607px) {
+    .accountinfo .leftmenu{
+        width:90%;
+        margin:0 0 24px 8px;
+    }
+    .contact {
+        clear: both;
+        text-align: center;
+        width: 100%;
+    }
+    .accountinfo .rightdesc{
+        float: left;
+        margin: 0 auto 0 10px;
+        width: 89%;
+    }
+
+    .service {
+        float: left;
+        margin: 0 19px 0 0;
+        text-align: center;
+        max-width: 607px;
+        width:100%;
+    }
+    .sidebartitle{
+        text-align:center;
+    }
+    .logintitle, .error{
+        padding:0 10px;
+    }
+}
+@media screen and (max-width:555px) {
+    .formfield{
+        margin:0 !important;
+    }
+    .leftform, .rightform {
+        margin: 0 0 10px;
+        width: 100%;
+    }
+    .formtext {
+        width: 265px;
+    }
+
+    .loginhome .leftform.leftcontent{
+        float: left;
+        margin: 0 0 10px 15px;
+    }
+    .loginhome input[type="text"], .loginhome textarea, .loginhome input[type="password"], .loginhome input[type="email"]{
+        max-width:235px;
+        width:100%;
+    }
+    .loginhome input[type="button"], input[type="submit"], input[type="reset"] {
+        margin: 10px;
+    }
+
+    #maincontent{
+        margin:0 0 15px 0;
+    }
+    .loginhome .formtext{
+        text-align:left !important;
+    }
+}
+@media screen and (max-width:446px) {
+    .formfield .leftform, .rightform {
+        width: 100% !important;
+    }
+    .pagedesc .loginhome input[type="text"], .loginhome textarea, .loginhome input[type="password"], .loginhome input[type="email"] {
+        border: 1px solid #ccc;
+        border-radius: 5px 0 0 5px;
+        height: 30px !important;
+        width: 193px !important;
+        width:100%;
+    }
+}
+
+@media screen and (max-width:437px) {
+    .loginhome input[type="text"], .register textarea, .register input[type="password"], .register input[type="email"], .register select{
+        height:26px;
+    }
+    #rightheader.rightcontent{
+        width:205px;
+    }
+    .reglink{
+        margin:0 auto;
+    }
+}
+@media screen and (max-width:431px) {
+    .register input[type="text"], .register textarea, .register input[type="password"], .register input[type="email"], .register select {
+        width: 189px !important;
+    }
+}
+@media screen and (max-width:420px) {
+    #logowrapper > img {
+        width: 100%;
+    }
+
+}
+@media screen and (max-width:397px) {
+    .pagedesc .loginhome input[type="text"], .loginhome textarea, .loginhome input[type="password"], .loginhome input[type="email"] {
+        border: 1px solid #ccc;
+        border-radius: 5px 0 0 5px;
+        height: 32px;
+        width:160px !important;
+        width:100%;
+        margin:0 auto;
+    }
+    .hedaerlink {
+        float: none;
+        margin: 0 auto;
+        padding: 10px 7px;
+    }
+    .beforewelcome.leftcontent {
+        display: block;
+        float: none;
+        margin: 0 auto 10px !important;
+        overflow: hidden;
+        width: 213px;
+    }
+    .hedaerlink{
+        padding:10px 7px;
+    }
+    .hedaerlinkwrapper {
+        float: none;
+        margin: 0 auto;
+        max-width: 338px;
+        text-align: center;
+        width: 100%;
+    }
+
+}
+@media screen and (max-width:378px) {
+    #rightheader.rightcontent {
+        width: 360px;
+    }
+
+}
+@media screen and (max-width:361px) {
+    .accountinfo .leftmenu{
+        width: 88%;
+    }
+    .register input[type="text"], .register textarea, .register input[type="password"], .register input[type="email"], .register select{
+        height:25px !important;
+    }
+    .loginhome .formtext{
+        margin: 4px 15px 19px 0;
+        width: 60px !important;
+    }
+    .formfield {
+        margin: 0 auto !important;
+        width: 300px !important;
+    }
+
+    .error{
+        text-align:center;
+    }
+    .hedaerlinkwrapper.rightcontent{
+        width:297px;
+    }
+    .stfpor .stfportallink {
+        margin: 10px 0;
+    }
+    #maincontent .pagedesc .loginhome .leftform.leftcontent {
+        width: auto;
+        margin: 0 0 10px;
+        width:100%;
+    }
+    .alignright.login_css {
+        float: none;
+        margin: 13px auto 0 !important;
+        text-align: center;
+        width: 215px;
+    }
+    .logintitle {
+        padding: 0 10px;
+        text-align: center;
+    }
+    .loginhome .formfield input[type="text"], textarea, input[type="password"], input[type="email"] {
+        border-radius: 5px 0 0 5px;
+        height: 28px;
+        width: 153px !important;
+    }
+
+    .stfportallink{
+        margin: 10px 15px;
+    }
+    .social{
+        width:297px;
+    }
+
+
+}
+@media screen and (max-width:347px) {
+    .leftcontent.leftmenu {
+        display: block;
+        overflow: hidden;
+    }
+    .leftmenu li {
+        clear: both;
+        display: block;
+        float: left;
+        overflow: hidden;
+        padding: 6px 20px;
+        text-align: center;
+        width: 96% !important;
+    }
+    .hedaerlinkwrapper
+    {
+        float: none;
+        margin: 0 auto;
+        max-width: 317px;
+        width:100%;
+        text-align: center;
+    }
+}
+@media screen and (max-width:332px) {
+    #maincontent .pagedesc .loginhome .leftform.leftcontent {
+        width: 100% !important;
+    }
+}
+@media screen and (max-width:320px) {
+    #maincontent .pagedesc .loginhome .leftform.leftcontent {
+        width: 100% !important;
+    }
+    .loginhome input[type="text"], .loginhome textarea, .loginhome input[type="password"], .loginhome input[type="email"]{
+        height:29px !important
+    }
+    .loginhome .login_css{
+        widows:223px;
+        margin: 14px 0 12px 13px !important;
+    }
+    .input-group-addon{
+        padding:4px 18px 5px !important;
+    }
+
+}
+.login_css {
+    text-align: left !important;
+    margin-left: 130px !important;
+}
+
+.alert {
+    padding: 5px 15px;
+    margin-bottom: 10px;
+}
+
+/***
+Customized Bootstrap Alerts
+***/
+.alert {
+    border-width: 1px;
+}
+
+/***
+Bootstrap Alerts
+***/
+.alert-success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #3c763d;
+}
+.alert-success hr {
+    border-top-color: #c9e2b3;
+}
+.alert-success .alert-link {
+    color: #2b542c;
+}
+
+.alert-info {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #31708f;
+}
+.alert-info hr {
+    border-top-color: #a6e1ec;
+}
+.alert-info .alert-link {
+    color: #245269;
+}
+
+.alert-warning {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #8a6d3b;
+}
+.alert-warning hr {
+    border-top-color: #f7e1b5;
+}
+.alert-warning .alert-link {
+    color: #66512c;
+}
+
+.alert-danger {
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442;
+}
+.alert-danger hr {
+    border-top-color: #e4b9c0;
+}
+.alert-danger .alert-link {
+    color: #843534;
+}
+
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .2;
+    filter: alpha(opacity=20);
+}
+
+.close {
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 0px;
+    width: 9px;
+    height: 9px;
+    background-repeat: no-repeat !important;
+    text-indent: -10000px;
+    outline: none;
+    background-image: url("../../img/remove-icon-small.png") !important;
+}
+
+button.close {
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+    -webkit-appearance: none;
+    text-transform: none;
+    overflow: visible;
+    font: inherit;
+    margin: 0;
+    margin-top: 5px;
+}
+
+#authMessage {
+    padding: 5px 15px;
+    margin-bottom: 10px;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442;
+}
+
+.content.loginhome {
+    background-color: #fff;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+    margin: 50px auto;
+    padding: 20px 30px 15px;
+    width: 257px;
+}
+.loginhome input[type="text"], .loginhome textarea, .loginhome input[type="password"], .loginhome input[type="email"] {
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    height: 30px;
+    width: 266px;
+}
+.register input[type="text"], .register textarea, .register input[type="password"], .register input[type="email"], .register select {
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    height: 26px;
+    width: 234px;
+}
+.register input[type="file"]{
+    font-family: "Open Sans",sans-serif;
+    font-size: 13px;
+}
+.register select{
+    font-family: "Open Sans",sans-serif;
+    font-size: 13px;
+    height: 32px;
+    width: 290px;
+}
+.form-control {
+    background-color: white;
+    border: 1px solid #e5e5e5;
+    border-radius: 0;
+    box-shadow: none;
+    color: #333333;
+    font-size: 14px;
+    font-weight: normal;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+.form-group .input-icon > i {
+    color: rgba(212, 26, 0, 0.6);
+}
+.input-icon > i {
+    color: #ccc;
+    display: block;
+    font-size: 16px;
+    height: 16px;
+    margin: 11px 2px 4px 10px;
+    position: absolute;
+    text-align: center;
+    width: 16px;
+    z-index: 3;
+}
+.loginhome .formtext{
+    text-align:right;
+    font-weight:bold;
+    margin: 4px 15px 0 0;
+    width: 100px;
+}
+.loginhome .formvalue{
+    margin:0;
+}
+
+.loginhome .login_css{
+    margin:0 !important;
+    display: block;
+    margin: 0 auto !important;
+    overflow: hidden;
+    width: 730px !important;
+}
+
+.logintitle {
+    color: #000000;
+    font-size: 23px;
+    font-weight: bold;
+    margin:5px 0 20px 0;
+}
+.logintitle > span{
+    color:#ED3237;
+}
+.loginhome .leftform, .rightform{
+    width:100%;
+}
+.input-group-addon {
+    background: none repeat scroll 0 0 #eee;
+    border-color: #ccc;
+    border-radius: 0 5px 5px 0;
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    display: block;
+    float: left;
+    padding: 6px 18px 4px;
+    vertical-align: middle;
+}
+
+.beforewelcome.leftcontent {
+    color: #ED3237;
+    padding: 10px 15px 0 0;
+}
+.logout a {
+    color: #ED3237;
+}
+.logout a:hover{
+    text-decoration: underline;
+}
+.error{
+    color: #ED3237;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0 0 20px;
+}
+
+
+
+.headertext {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 40px 0;
+    text-align: center;
+}
+
+
+
+table{
+    border:none;
+    border-collapse:collapse;
+    width:100%;
+}
+tr {
+    border-bottom: 1px solid #ccc;
+}
+th {
+    background: #ED3237;
+    border: medium none;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px;
+    color:#FFFFFF;
+    border-right: 1px solid;
+}
+td:first-child {
+    border-left: 1px solid #e1e1e1;
+}
+td{
+    border:none;
+    font-size:12px;
+    padding:10px;
+    border-right:1px solid #e1e1e1;
+}
+
+@media  only screen and (max-width: 1030px),  (min-device-width: 1030px) and (max-device-width: 1100px) {
+
+
+    /* Force table to not be like tables anymore */
+    .restable table, .restable thead, .restable tbody, .restable th, .restable td, .restable tr {
+        display: block;
+    }
+
+    /* Hide table headers (but not display: none;, for accessibility) */
+    .restable thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+    .restable tr {
+        border: 1px solid #ccc;
+        margin: 0 0 25px;
+    }
+    .restable td {
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        padding-left: 45%;
+        padding-top:0;
+        padding-bottom:0;
+        min-height:30px;
+        line-height:30px;
+    }
+    .restable td:before {
+        background: #ED3237;
+        height: 100%;
+        left: 0;
+        line-height: 30px;
+        min-height: 30px;
+        padding: 0 10px 0 3%;
+        position: absolute;
+        vertical-align: middle;
+        white-space: nowrap;
+        width: 35%;
+        color:#fff;
+    }
+
+    /*
+    Label the data
+    */
+    .historydetailtable td:nth-of-type(1):before {
+        content: "Subscription ID";
+    }
+    .historydetailtable td:nth-of-type(2):before {
+        content: "Apply Date";
+    }
+    .historydetailtable td:nth-of-type(3):before {
+        content: "Email ID";
+    }
+    .historydetailtable td:nth-of-type(4):before {
+        content: "First Name";
+    }
+    .historydetailtable td:nth-of-type(5):before {
+        content: "Last Name";
+    }
+
+    .historydetailtable td:nth-of-type(6):before {
+        content: "Mobile No.";
+    }
+
+    td:nth-of-type(7):before {
+        content: "Details ";
+    }
+
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+
+
+/* iPads (portrait and landscape) ----------- */
+
+.rightdesc {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+    float: left;
+    overflow: hidden;
+    padding: 10px;
+    width: 706px;
+}
+.leftmenu {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 11px 0 0;
+    width: 175px;
+    padding:10px;
+}
+.leftmenu > ul {
+    list-style: outside none none;
+}
+
+.leftmenu li {
+    background: #000;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 13px;
+    margin: 0 0 8px;
+    padding: 6px;
+}
+.hist {
+    color: #ED3237;
+    font-size: 20px;
+    font-weight:bold;
+    margin: 0 0 10px;
+    padding: 6px;
+}
+.details {
+    color: #000;
+}
+.details:hover {
+    color: #ED3237;
+}
+.register .leftform, .rightform {
+    width: 48%;
+}
+.register .formtext{
+    font-weight: 600;
+}
+.orderinfo {
+    background: #000;
+    color: #fff;
+    display: block;
+    margin: 0 0 20px;
+    overflow: hidden;
+    padding: 5px;
+}
+.print {
+    background: #ED3237;
+    border: 1px solid;
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 2px 10px;
+    text-transform: uppercase;
+}
+
+.orderdetails td{
+    border-top: 1px solid #ccc;
+}
+.custinfo.leftcontent {
+    font-size: 14px;
+    padding: 2px 0 0;
+}
+.tbltxt {
+    color: #fff;
+    text-align: left;
+}
+
+.links {
+    text-decoration: none;
+}
+
+.links:hover {
+    text-decoration: underline;
+    color: #ED3237 !important;
+}
+
+.details {
+    color: #ED3237;
+}
+
+.details:hover {
+    text-decoration: underline;
+    color: #ED3237;
+}
+
+.data {
+    -moz-hyphens: none;
+    display: block;
+    font-size: 15px;
+    margin: 0 0 10px;
+    overflow: hidden;
+    text-align: justify;
+}
+.costbtn {
+    background: none repeat scroll 0 0 #ED3237;
+    border-radius: 3px;
+    color: #fff !important;
+    margin: 13px 15px 0 0;
+    padding: 10px 20px;
+    float: right;
+}
+.costbtn a{
+    color: #fff;
+}
+.data table td {
+    color: #000;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px 0 5px 5px !important;
+}
+.data table{
+    width: 100%;
+   margin: 0 auto;
+}
+
+.error-message {
+    color: red;
+}
+
+.side_bar_link {
+    color: #FFF;
+}
+
+.side_bar_link:hover {
+    text-decoration: underline;
+    color: #FFF;
+}
+
+.payment_button div.submit > input {
+    background: url(../images/paypal.gif) no-repeat center center;
+    background-size: 95px 30px;
+    font-size: 1px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    margin: 0 !important;
+}
+
+.birthdayPicker {
+    border: none;
+    width: 288px;
+    padding: 0;
+}
+.birthdayPicker select {
+    width: 88px;
+    float: left;
+    margin: 0 10px 0 0;
+}
+.birthdayPicker select:last-of-type {
+    margin: 0;
+}
+
+/* base CSS element */
+.tooltip
+{
+    position: relative;
+    background: #eaeaea;
+    cursor: help;
+    display: inline-block;
+    text-decoration: none;
+    color: #222;
+    outline: none;
+}
+
+.tooltip span
+{
+    visibility: hidden;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    z-index: 999;
+    width: 230px;
+    margin-left: -127px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    opacity: .9;
+    background-color: #ddd;
+    background-image: -webkit-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+    background-image: -moz-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+    background-image: -ms-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+    background-image: -o-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+    background-image: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+    box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+    text-shadow: 0 1px 0 rgba(255,255,255,.4);
+}
+
+.tooltip:hover
+{
+    border: 0; /* IE6 fix */
+}
+
+.tooltip:hover span
+{
+    visibility: visible;
+}
+
+.tooltip span:before,
+.tooltip span:after
+{
+    content: "";
+    position: absolute;
+    z-index: 1000;
+    bottom: -7px;
+    left: 50%;
+    margin-left: -8px;
+    border-top: 8px solid #ddd;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 0;
+    font-size: 11px !important;
+}
+
+.tooltip span:before
+{
+    border-top-color: #ccc;
+    bottom: -8px;
+}
+
+/* Yellow */
+
+.yellow-tooltip span
+{
+
+    border-color: #e1ca82;
+    background-color: #ffeaa6;
+}
+
+.yellow-tooltip span:after
+{
+    border-top-color: #ffeaa6;
+}
+
+.yellow-tooltip span:before
+{
+    border-top-color: #e1ca82;
+}
+
+/* Navy */
+
+.navy-tooltip span
+{
+    color: #fff;
+    text-shadow: 0 1px 0 #000;
+    border-color: #161a1f;
+    background-color: #1e2227;
+    font-size: 11px !important;
+}
+
+.navy-tooltip span:after
+{
+    border-top-color: #1e2227;
+}
+
+.navy-tooltip span:before
+{
+    border-top-color: #161a1f;
+}
+
+/* Blue */
+
+.blue-tooltip span
+{
+    border-color: #59add4;
+    background-color: #61bde7;
+}
+
+.blue-tooltip span:after
+{
+    border-top-color: #61bde7;
+}
+
+.blue-tooltip span:before
+{
+    border-top-color: #59add4;
+}
+
+/* Pink */
+
+.pink-tooltip span
+{
+    border-color: #ce4378;
+    background-color: #ea4c88;
+}
+
+.pink-tooltip span:after
+{
+    border-top-color: #ea4c88;
+}
+.pink-tooltip span:before
+{
+    border-top-color: #ce4378;
+}
+
+.tooltip_icon {
+    background:url(../images/faq_gray.png) no-repeat left center;
+    background-size: 20px 18px;
+    width: 20px;
+    height: 18px;
+    bottom: 20px;
+    left: 428px;
+    position: absolute;
+}
+
+.regpage .formfield{
+       overflow: visible;
+}
+.regpage .formvalue{
+    margin: 0 0 20px;
+}
+.regpage .formtext{
+    margin: 0 10px 0 0;
+}
+
+.regpage .leftform, .regpage .rightcontent {
+    position: relative;
+}
+
+.custom_margin {
+    margin-top: 15px;
+}
+
+a.link_cr {
+    color: #757575!important;
+    cursor:pointer;
+}
+
+a.link_cr:hover {
+    color: #ED3237 !important;
+    text-decoration: underline;
+    cursor:pointer;
+}

@@ -1,0 +1,561 @@
+/*
+Logistic Inherit Style CSS
+*/
+th {
+text-align: center;
+}
+
+.dataTable .btn {
+padding: 0 5px;
+}
+
+/*.dataTable>tbody>tr>td {
+padding: 4px 8px;
+}*/
+
+.control-label {
+    font-weight: 600;
+}
+
+.table thead tr th {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.table tbody tr td {
+    font-size: 11px
+}
+
+.btn > i {
+    font-size: 12px;
+}
+
+div.dataTables_length label
+{
+    font-size: 12px;
+}
+
+.select2-container .select2-choice
+{
+    line-height: 18px;
+    font-size: 12px;
+    height: 26px;
+}
+
+.select2-container .select2-choice .select2-arrow b {
+    background-position: 0 -3px;
+}
+
+.select2-results li {
+    line-height: 18px;
+    font-size: 12px;
+}
+
+div.dataTables_filter label
+{
+    font-size: 12px;
+}
+
+div.dataTables_filter .input-inline
+{
+    height: 25px;
+    font-size: 12px;
+    padding: 2px 12px;
+}
+
+div.dataTables_info
+{
+    font-size: 12px;
+    top: 1px;
+    width: 50%;
+}
+
+.pagination>li>a, .pagination>li>span
+{
+    padding: 3px 8px;
+    line-height: 17px;
+}
+
+.pagination {
+    margin: 0;
+}
+
+.control-label {
+    font-size: 12px;
+}
+
+.form-control
+{
+    line-height: 18px;
+    font-size: 12px;
+    height: 26px;
+}
+
+.select2-search input
+{
+    line-height: 16px;
+}
+
+.form-control label, .form-group label {
+    font-size: 12px;
+}
+
+.has-error {
+    font-size: 12px;
+}
+
+.radio-inline, .checkbox-inline
+{
+    padding-left: 0;
+}
+
+.radio-inline+.radio-inline, .checkbox-inline+.checkbox-inline
+{
+    margin-left: 0;
+}
+
+.flag_tag {
+    float:left;
+}
+
+.tabletools-dropdown-on-portlet .btn-sm {
+    font-size: 11px;
+    line-height: 11px;
+}
+
+.tabletools-dropdown-on-portlet {
+    margin-top: -33px;
+}
+
+.table-scrollable {
+    margin: 0px 10px 10px 0 !important;
+}
+
+.breadcrumb .btn {
+    font-size: 12px;
+}
+
+.dropdown-menu {
+    font-size: 11px;
+    min-width: 120px;
+}
+
+.alert {
+    padding: 5px 15px;
+    margin-bottom: 10px;
+}
+
+.tabbable  .portlet > .portlet-title > .caption > i
+{
+margin-top: 1px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.form-control-static {
+    margin-top: 3px;
+    font-size: 11px;
+}
+
+.tooltip {
+    z-index: 11000;
+}
+
+#ajax-modal .portlet, #ajax-modal .tabbable-custom {
+    margin-bottom: 0;
+}
+
+.error-message {
+color: #A94442;
+}
+
+.inline_elem {
+    display: inline-block !important;
+}
+
+.logo .form-title {
+    color: #EEE !important;
+}
+
+.disable_link {
+    cursor: text;
+}
+
+.custom_search_filter {
+    position: relative;
+    z-index: 9999;
+    /*height: 180px;*/
+}
+
+.table .btn {
+padding: 0 5px;
+}
+
+#authMessage {
+    padding: 5px 15px;
+    margin-bottom: 10px;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442;
+}
+
+.commission_block {
+    display: none;
+}
+
+.additional_upload {
+    margin-bottom: 10px;
+    display: inline-block !important;
+}
+
+.add_more_button {
+    float: right;
+}
+
+.add_more_block .fa-item {
+float: none !important;
+padding: 0;
+margin-left: 15px;
+width: 15px;
+margin-top: 0;
+}
+
+.add_more_block .fa-item:hover {
+background: transparent;
+}
+
+.greenc.btn {
+    color: white;
+    background-color: darkgreen !important;
+    cursor: default;
+}
+
+.greenc.btn:hover {
+    background-color: darkgreen !important;
+}
+
+div.submit > input {
+    background: url(../images/paypal.gif) no-repeat center center;
+    background-size: 95px 30px;
+    font-size: 1px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    margin: 0 0 0 6px !important;
+}
+
+.hide_element {
+    display: none;
+}
+
+.paypal_element {
+    float: right;
+    top: -119px;
+    left: -285px;
+    position: relative;
+}
+.serreptbl.table .heading th {
+    padding: 6px 10px !important;
+}
+.serreptbl.table td {
+    padding: 10px 6px !important;
+}
+
+.perc_10 {
+    width: 50% !important;
+    margin-bottom: 15px !important;
+}
+
+.delete_btn {
+    float: right !important;
+    margin-left: 10px !important;
+}
+.ACADEMIC_HISTORY {
+    background: url(../../img/dashboard/ACADEMIC_HISTORY.png) no-repeat center center;
+}
+.SHARE_APP {
+    background: url(../../img/dashboard/SHARE_APP.png) no-repeat center center;
+}
+.REFER_FRIEND {
+    background: url(../../img/dashboard/REFER_FRIEND.png) no-repeat center center;
+}
+.CANTEEN {
+    background: url(../../img/dashboard/CANTEEN.png) no-repeat center center;
+}
+.CONTACT_US {
+    background: url(../../img/dashboard/CONTACT_US.png) no-repeat center center;
+}
+.contact_list {
+    background: url(../../img/dashboard/contact_list.png) no-repeat center center;
+}
+.DAILY_DIARY {
+    background: url(../../img/dashboard/DAILY_DIARY.png) no-repeat center center;
+}
+.DOWNLOAD {
+    background: url(../../img/dashboard/DOWNLOAD.png) no-repeat center center;
+}
+.FRONT_OFFICE {
+    background: url(../../img/dashboard/FRONT_OFFICE.png) no-repeat center center;
+}
+.GALLERY {
+    background: url(../../img/dashboard/GALLERY.png) no-repeat center center;
+}
+.HOSTEL {
+    background: url(../../img/dashboard/HOSTEL.png) no-repeat center center;
+}
+.IDCARD {
+    background: url(../../img/dashboard/IDCARD.png) no-repeat center center;
+}
+.MAILER {
+    background: url(../../img/dashboard/MAILER.png) no-repeat center center;
+}
+.NEWS_UPDATE {
+    background: url(../../img/dashboard/NEWS_UPDATE.png) no-repeat center center;
+}
+.REMARKS {
+    background: url(../../img/dashboard/REMARKS.png) no-repeat center center;
+}
+.security {
+    background: url(../../img/dashboard/security.png) no-repeat center center;
+}
+.SMS {
+    background: url(../../img/dashboard/SMS.png) no-repeat center center;
+}
+.STORE_PURCHASE {
+    background: url(../../img/dashboard/STORE_PURCHASE.png) no-repeat center center;
+}
+.TIK_TALK {
+    background: url(../../img/dashboard/TIK_TALK.png) no-repeat center center;
+}
+.UTILITY_HELP {
+    background: url(../../img/dashboard/UTILITY_HELP.png) no-repeat center center;
+}
+.account_section {
+    background: url(../../img/dashboard/account_section.png) no-repeat center center;
+}
+
+.achievements {
+	background: url(../../img/dashboard/achievements.jpg) no-repeat center center;
+}
+
+.admission_forms {
+	background: url(../../img/dashboard/admission_forms.jpg) no-repeat center center;
+}
+.admission_forms {
+	background: url(../../img/dashboard/admission_forms.png) no-repeat center center;
+}
+.student {
+	background: url(../../img/dashboard/student.png) no-repeat center center;
+}
+
+.admission_section {
+	background: url(../../img/dashboard/admission_section.png) no-repeat center center;
+}
+.album {
+	background: url(../../img/dashboard/album.png) no-repeat center center;
+}
+.assign_time_table {
+	background: url(../../img/dashboard/time_table.png) no-repeat center center;
+}
+.attendance {
+	background: url(../../img/dashboard/attendance.png) no-repeat center center;
+}
+.blood_group {
+	background: url(../../img/dashboard/blood_group.jpg) no-repeat center center;
+}
+.book_master {
+	background: url(../../img/dashboard/book_master.jpg) no-repeat center center;
+}
+.cast_category {
+	background: url(../../img/dashboard/cast_category.jpg) no-repeat center center;
+}
+.category {
+	background: url(../../img/dashboard/category.jpg) no-repeat center center;
+}
+.certification {
+	background: url(../../img/dashboard/certification.jpg) no-repeat center center;
+}
+.city {
+	background: url(../../img/dashboard/city.jpg) no-repeat center center;
+}
+.driver {
+	background: url(../../img/dashboard/driver.jpg) no-repeat center center;
+}
+.ebook {
+	background: url(../../img/dashboard/ebook.png) no-repeat center center;
+}
+.exam_result {
+	background: url(../../img/dashboard/exam_result.png) no-repeat center center;
+}
+
+.exam_schedule {
+	background: url(../../img/dashboard/exam_schedule.jpg) no-repeat center center;
+}
+
+.exam_type {
+	background: url(../../img/dashboard/exam_type.jpg) no-repeat center center;
+}
+
+.fee {
+	background: url(../../img/dashboard/fee.png) no-repeat center center;
+}
+
+.holiday {
+	background: url(../../img/dashboard/holiday.png) no-repeat center center;
+}
+
+.hr_section {
+	background: url(../../img/dashboard/hr_section.png) no-repeat center center;
+}
+.imports {
+	background: url(../../img/dashboard/imports.png) no-repeat center center;
+}
+.leave_application {
+	background: url(../../img/dashboard/leave_application.png) no-repeat center center;
+}
+.library {
+	background: url(../../img/dashboard/library.png) no-repeat center center;
+}
+.events {
+	background: url(../../img/dashboard/events.png) no-repeat center center;
+}
+.medium_section {
+	background: url(../../img/dashboard/medium_section.jpg) no-repeat center center;
+}
+.my_profile {
+	background: url(../../img/dashboard/my_profile.png) no-repeat center center;
+}
+.notice_board {
+	background: url(../../img/dashboard/circular.png) no-repeat center center;
+}
+
+.page_content {
+	background: url(../../img/dashboard/page_content.jpg) no-repeat center center;
+}
+
+.page_name {
+	background: url(../../img/dashboard/page_name.jpg) no-repeat center center;
+}
+
+.payment_term {
+	background: url(../../img/dashboard/payment_term.png) no-repeat center center;
+}
+
+.roles {
+	background: url(../../img/dashboard/roles.jpg) no-repeat center center;
+}
+
+.school {
+	background: url(../../img/dashboard/school.jpg) no-repeat center center;
+}
+
+.school_gallery {
+	background: url(../../img/dashboard/school_gallery.jpg) no-repeat center center;
+}
+
+.student_ledger {
+	background: url(../../img/dashboard/student_ledger.png) no-repeat center center;
+}
+
+.student_section {
+	background: url(../../img/dashboard/student_section.png) no-repeat center center;
+}
+
+.subject {
+	background: url(../../img/dashboard/subject.png) no-repeat center center;
+}
+
+.supervisor_section {
+	background: url(../../img/dashboard/supervisor_section.png) no-repeat center center;
+}
+
+.teacher_section {
+	background: url(../../img/dashboard/teacher_section.png) no-repeat center center;
+}
+
+.testimonial {
+	background: url(../../img/dashboard/testimonial.jpg) no-repeat center center;
+}
+
+.transports {
+	background: url(../../img/dashboard/transports.png) no-repeat center center;
+}
+.user_suggestion {
+	background: url(../../img/dashboard/user_suggestion.png) no-repeat center center;
+}
+.vacancy {
+	background: url(../../img/dashboard/vacancy.png) no-repeat center center;
+}
+
+.school_profile{
+	background: url(../../img/dashboard/school_profile.jpg) no-repeat center center;
+}
+.fee_type{
+	background: url(../../img/dashboard/fee_type.png) no-repeat center center;
+}
+.class_work{
+	background: url(../../img/dashboard/class_work.png) no-repeat center center;
+}
+.home_work{
+	background: url(../../img/dashboard/home_work.png) no-repeat center center;
+}
+.exam_list {
+	background: url(../../img/dashboard/exam_list.jpg) no-repeat center center;	
+}
+
+.my_document {
+	background: url(../../img/dashboard/my_document.png) no-repeat center center;	
+}
+.circular {
+	background: url(../../img/dashboard/circular.jpg) no-repeat center center;	
+}
+
+.communication {
+	background: url(../../img/dashboard/communication.jpg) no-repeat center center;	
+}
+.classmates{ 
+background: url(../../img/dashboard/classmates.png) no-repeat center center;	
+}
+
+.guest_page { 
+background: url(../../img/dashboard/guest_setting.png) no-repeat center center;	
+}
+
+.general_setting { 
+background: url(../../img/dashboard/general_setting.png) no-repeat center center;	
+}
+
+.back_dashboard { 
+background: url(../../img/dashboard/back.jpg) no-repeat center center;	
+}
+
+.broucher { 
+background: url(../../img/dashboard/Broucher.jpg) no-repeat center center;	
+}
+
+.admission_inquiry { 
+background: url(../../img/dashboard/admission_inquiry.png) no-repeat center center;	
+}
+
+.vehicle_profile {
+    background: url(../../img/dashboard/vehicle_profile.png) no-repeat center center;
+}
+.driver_profile {
+    background: url(../../img/dashboard/driver_profile.png) no-repeat center center;
+}
+.ROUTE_SCHEDULE {
+    background: url(../../img/dashboard/ROUTE_SCHEDULE.png) no-repeat center center;
+}
+
+.account_section_new { 
+background: url(../../img/dashboard/account_section_new.jpg) no-repeat center center;	
+}
+
+.alert {
+    display: block;
+    margin: 10px 0 0 37% !important;
+    padding: 10px !important;
+    width: 59%;
+}

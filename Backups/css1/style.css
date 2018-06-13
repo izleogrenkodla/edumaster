@@ -1,0 +1,311 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.body-background
+{
+    background:url(/image/grass-seamless-pattern-2-2-8632803.jpg);
+    width:100%;
+    height:100%;
+    float:left;
+
+}
+.main{
+	width:100%;
+	height:auto;
+	float:left;
+	//background:#fff;
+}
+.header{
+	width:100%;
+	height:auto;
+	float:left;
+	background:#0d0c8a;	
+	//border-bottom:1px solid #666;
+}
+.gu-text{
+	font-size:60px;
+	text-align:left;	
+	padding:20px 0;
+	font-weight:bold;
+}
+.footter{
+	width:100%;
+	height:auto;
+	background:#000;
+	float:left;
+	font-size:18px;
+	color:#FFFFFF
+}
+.menu{
+	width:100%;
+	height:auto;
+	float:left;
+	background-color:#000;
+}
+.menu ul{
+	list-style:none;
+
+}
+.menu ul li{
+	float:left;
+
+}
+.menu ul li a{
+	padding:12px 30px;
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	color:#fff;
+	font-weight:bold;
+
+}
+.menu ul li a:hover{
+	background:#ccc;
+	color:#000;
+}
+.menu ul ul {
+	display:none;
+	position:absolute;
+
+}
+.menu ul ul li{
+	float:none;
+	position:relative;
+	left: -39px;
+}
+.menu ul ul li a{
+	background-color:#ccc;
+	//border-radius:10px;
+	  padding: 15px 70px;
+
+}
+.menu ul ul li a:hover{
+	background-color:#999;
+
+}
+.menu ul ul li a:active{
+	background-color:#ccc;
+
+}
+.menu ul li:hover> ul{
+	display:block;
+	position:absolute;	
+}
+.menu ul ul ul{
+	left:100%;
+	top:0px;
+	position:absolute;
+
+}
+.menu ul ul ul li{
+
+}
+.menu ul ul ul li a{
+	color:#FFF;
+	 padding:5px 70px;
+
+}
+.menu ul ul ul li a:hover{
+	color:#000;
+
+}
+
+.maoin-fobt{
+	width:100%;
+	height:auto;	
+	float:left;
+	padding:45px 0;
+	//background:#fff;
+
+}
+
+.main-honk{
+	width:95%;
+	height:100%;	
+	//float:left;
+	box-shadow:3px 0px 17px 1px #ccc;
+	background:rgba(255,255,255,0.6);
+}
+.fto-main{
+	box-shadow: 2px 6px 22px 0 #ccc;
+    float: left;
+    height: 100%;
+    margin: 15px 0 0;
+    width: 100%;
+    background: #fff none repeat scroll 0 0;
+}
+.img-box{
+   border: 1px solid #999;
+    float: left;
+    height: 81%;
+    margin: 15px;
+    padding: 0 !important;
+    width: 27%;
+}
+.guru-text{
+	width:100%;
+	height:auto;
+	float:left;	
+	text-align:left;
+	padding:10px 0;
+}
+.add-text{
+	float: left;
+    height: auto;
+    margin-left: 15px;
+    text-align: left;
+    width: 208%;
+}
+.flon-none{
+	font-size:14px;
+	float:left;	
+}
+.main-tab{
+	width:100%;
+	height:auto;
+	float:left;	
+}
+.main-tab ul{
+	float: left;
+    list-style: outside none none;
+    //margin: 0 74px 0 0;
+    padding: 0;
+    //width: 100%;
+}
+#grad1 {
+    height: 200px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, yellow); /* Standard syntax (must be last) */
+}
+.main-tab ul li{
+	float:left;
+}
+.main-tab ul li a{
+	padding:7px 15px;
+	display:block;
+	text-decoration:none;
+	color:#fff;
+	background:#090;
+	border:1px solid #FFF;	
+}
+.main-tab ul li a:hover{
+	background:#999;
+	transition:0.5s all;
+}
+.search-box{
+	//width:auto;
+	height:auto;
+	float:left;	
+}
+.search-box{
+	float:left;
+	box-shadow:2px 6px 22px 0px #ccc;
+	margin: 15px 0 0;
+}
+.widget-container {
+    margin: 12px;
+    padding: 10px;
+    box-shadow: 0 1px 3px 0 #999;
+}
+.font-da{
+	float:left;
+	font-size:14px;	
+}
+.select-box{
+	width:100%;
+	height:27px;
+	border:1px solid #666;	
+}
+.select-box:focus{
+	border:1px solid #093;	
+}
+.butoon-tenm{
+	width:170px;
+	height:35px;
+	border:none;
+	background:#009900;
+	border:2px solid #030;
+	margin-top:15px;	
+	color:#fff;
+	font-weight:bold;
+}
+.butoon-tenm:hover{
+	background:#333333;
+	transition:1s all;	
+	border:2px solid #009900;
+}
+.select_style {
+    overflow:hidden;
+}
+.select_style select {
+    -webkit-appearance: none;
+    appearance:none;
+    width:120%;
+    background:none;
+    background:transparent;
+    border:none;
+    outline:none;
+}
+.select_style {
+    background: #FFF;
+    overflow: hidden;
+    display: inline-block;
+    color: #525252;
+    font-weight: 300;
+    -webkit-border-radius: 5px 4px 4px 5px/5px 5px 4px 4px;
+    -moz-border-radius: 5px 4px 4px 5px/5px 5px 4px 4px;
+    border-radius: 5px 4px 4px 5px/5px 5px 4px 4px;
+    -webkit-box-shadow: 0 0 5px rgba(123, 123, 123, 0.2);
+    -moz-box-shadow: 0 0 5px rgba(123,123,123,.2);
+    box-shadow: 0 0 5px rgba(123, 123, 123, 0.2);
+    border: solid 1px #DADADA;
+    font-family: "helvetica neue",arial;
+    position: relative;
+    cursor: pointer;
+    padding-right:20px;
+}
+.select_style span {
+    position: absolute;
+    right: 10px;
+    width: 8px;
+    height: 8px;
+    background: url(http://projects.authenticstyle.co.uk/niceselect/arrow.png) no-repeat;
+    top: 50%;
+    margin-top: -4px;
+}
+.select_style select {
+    -webkit-appearance: none;
+    appearance:none;
+    width:120%;
+    background:none;
+    background:transparent;
+    border:none;
+    outline:none;
+    cursor:pointer;
+    padding:7px 10px;
+}
+.five-star{
+	color: #000;
+    float: left;
+    font-size: 20px;
+    text-align: left;
+	margin-left:15px;
+}
+.but-loow{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #fff none repeat scroll 0 0;
+    border-color: -moz-use-text-color -moz-use-text-color #ccc;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 1px;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    width: 160px;
+}
